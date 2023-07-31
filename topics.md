@@ -1051,7 +1051,6 @@
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -1269,6 +1268,7 @@
 - [vortexau/dnsvalidator](https://github.com/vortexau/dnsvalidator) - Maintains a list of IPv4 DNS servers by verifying them against baseline servers, and ensuring accurate responses.
 - [TheBoatyMcBoatFace/README-AI](https://github.com/TheBoatyMcBoatFace/README-AI) - 🚀 Automated tool for generating beautiful, informative, and well-structured README files. Powered by OpenAI GPT language models 💫
 - [TheBoatyMcBoatFace/awesome-chatgpt-api](https://github.com/TheBoatyMcBoatFace/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [TheBoatyMcBoatFace/tabler](https://github.com/TheBoatyMcBoatFace/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [CivicActions/cypress-tests](https://github.com/CivicActions/cypress-tests) - A repository to store Cypress test recipes created by CivicActions engineers
 - [mozilla-services/axe-selenium-python](https://github.com/mozilla-services/axe-selenium-python) - aXe Selenium Integration python package
