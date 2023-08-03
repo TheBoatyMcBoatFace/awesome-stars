@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -58,6 +59,10 @@
 ## Batchfile 
 
 - [meisnate12/Plex-Meta-Manager-Configs](https://github.com/meisnate12/Plex-Meta-Manager-Configs) - Config files for Plex Meta Manager
+
+## Blade 
+
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -158,7 +163,7 @@
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [davidleitw/naming](https://github.com/davidleitw/naming) - naming made easy: Elevate your code's readability with just one command.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team. https://www.bytebase.com
 - [supabase/cloudflare-access-grafana](https://github.com/supabase/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -665,6 +670,7 @@
 
 ## TypeScript 
 
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [EndBug/label-sync](https://github.com/EndBug/label-sync) - :octocat: An action that allows you to sync labels from a repository or a config file
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
@@ -729,7 +735,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
