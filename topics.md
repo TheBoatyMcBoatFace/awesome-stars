@@ -1213,6 +1213,7 @@
 
 ## others 
 
+- [ubports/ubuntu-touch](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
 - [accessibility-luxembourg/simplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler) - This tool crawls a list of websites and download all PDF and office documents. Then it analyses the PDF documents and tries to detect accessibility issues.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) - An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
