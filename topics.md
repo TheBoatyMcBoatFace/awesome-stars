@@ -1386,7 +1386,6 @@
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
 - [a11ywatch/a11ywatch-examples](https://github.com/a11ywatch/a11ywatch-examples) - Integration examples using the A11yWatch platform
 - [a11ywatch/core](https://github.com/a11ywatch/core) - A11yWatch API and core Lite
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [a11ywatch/a11ywatch](https://github.com/a11ywatch/a11ywatch) - The web accessibility tool
