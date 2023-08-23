@@ -274,7 +274,6 @@
 - [SavageSoftware/portainer-backup](https://github.com/SavageSoftware/portainer-backup) - Portainer Backup Utility
 - [argoproj/argo-site](https://github.com/argoproj/argo-site) - 
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
 - [woganmay/domo-html-quickstart](https://github.com/woganmay/domo-html-quickstart) - An HTML/JS template that gives you a good starting point for HTML-based Domo Apps
@@ -349,7 +348,6 @@
 - [department-of-veterans-affairs/acronyms](https://github.com/department-of-veterans-affairs/acronyms) - A list of VA acronyms
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -442,6 +440,7 @@
 - [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - ✨ A curated list of awesome design principles
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## PHP 
 
