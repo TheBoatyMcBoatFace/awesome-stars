@@ -63,6 +63,7 @@
 
 ## Blade 
 
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
@@ -128,6 +129,7 @@
 
 ## Dart 
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Lenny4/DeepFaceLabClient](https://github.com/Lenny4/DeepFaceLabClient) - Just an app to use DeepFaceLab with a user interface.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
@@ -225,12 +227,12 @@
 
 ## Java 
 
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
-- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
@@ -371,6 +373,7 @@
 
 ## Others 
 
+- [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -489,6 +492,7 @@
 
 ## Python 
 
+- [david-a-wheeler/security-reviews](https://github.com/david-a-wheeler/security-reviews) - A community collection of security reviews of open source software components.
 - [StanGirard/seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) - SEO & Security Audit for Websites. Lighthouse & Security Headers crawler, Sitemap/Keywords/Images Extractor,  Summarizer, etc ...
 - [accessibility-luxembourg/simplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler) - This tool crawls a list of websites and download all PDF and office documents. Then it analyses the PDF documents and tries to detect accessibility issues.
 - [Alwinator/aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization) - An Activity Watch watcher that monitors CPU, RAM, disk, network, and sensor usage.
