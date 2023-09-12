@@ -257,6 +257,7 @@
 
 ## JavaScript 
 
+- [biati-digital/nova-advanced-new-file](https://github.com/biati-digital/nova-advanced-new-file) - Create files easily
 - [pedrofuentes/stream-deck-ical](https://github.com/pedrofuentes/stream-deck-ical) - An iCal Plugin for elgato Stream Deck
 - [belcar-s/nova-external-terminal](https://github.com/belcar-s/nova-external-terminal) - Open Terminal.app from Nova's command palette!
 - [bevacqua/local-storage](https://github.com/bevacqua/local-storage) - :left_luggage: A simplified localStorage API that just works
