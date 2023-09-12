@@ -1314,6 +1314,7 @@
 
 ## others 
 
+- [biati-digital/nova-advanced-new-file](https://github.com/biati-digital/nova-advanced-new-file) - Create files easily
 - [docker-library/postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [belcar-s/nova-external-terminal](https://github.com/belcar-s/nova-external-terminal) - Open Terminal.app from Nova's command palette!
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
