@@ -73,6 +73,7 @@
 
 ## C 
 
+- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [csBlueChip/FlipperZero_WiiEC](https://github.com/csBlueChip/FlipperZero_WiiEC) - A FlipperZero application to test Wii Extension Controllers.
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -84,7 +85,6 @@
 - [ezod/flipperzero-gps](https://github.com/ezod/flipperzero-gps) - Flipper Zero application for NMEA 0183 serial GPS modules.
 - [bareboat-necessities/my-bareboat](https://github.com/bareboat-necessities/my-bareboat) - Opensource hardware and software solutions for sailing and sailboats
 - [peterantypas/maiana](https://github.com/peterantypas/maiana) - MAIANA™ is the first Open Source AIS transponder. It proudly raises an extra long middle finger to the marine electronics industry, government overregulation and everything else that gets in the way o
-- [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
@@ -480,6 +480,7 @@
 
 ## PHP 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar.
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
