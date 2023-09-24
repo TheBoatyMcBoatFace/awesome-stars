@@ -165,6 +165,7 @@
 
 ## Go 
 
+- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
@@ -527,6 +528,10 @@
 
 ## Python 
 
+- [PierreDurrr/rollarr](https://github.com/PierreDurrr/rollarr) - All credits goes to TheHumanRobot
+- [jcostom/rollerblades](https://github.com/jcostom/rollerblades) - Plex Preroll Rotater
+- [ksmith211/Plex-Apple-Preroll-Trailers](https://github.com/ksmith211/Plex-Apple-Preroll-Trailers) - A set of python scripts for downloading trailers from Apple, randomly mixing them into one video file, and playing them before movies in Plex as a preroll trailer.
+- [giacy86/plex-preroll-trailers](https://github.com/giacy86/plex-preroll-trailers) - Simple and rough set of python script that download trailers for the upcoming/now playing movies in theathers and show it as a preroll video before watch movies in Plex.
 - [ClickHouse/clickhub](https://github.com/ClickHouse/clickhub) - Github analytics powered by the world's fastest real-time analytics database
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -581,7 +586,7 @@
 - [TheBoatyMcBoatFace/awesome-chatgpt-api](https://github.com/TheBoatyMcBoatFace/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files automatically, powered by GPT-4 🪐
 - [mozilla-services/axe-selenium-python](https://github.com/mozilla-services/axe-selenium-python) - aXe Selenium Integration python package
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
