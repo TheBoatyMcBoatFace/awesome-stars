@@ -685,7 +685,7 @@
 - [ajavageek/http-api-rust](https://github.com/ajavageek/http-api-rust) - 
 - [CivicActions/public-sector-a11y_connect](https://github.com/CivicActions/public-sector-a11y_connect) - A collection of dockerized server-side applications using the Rocketweb Rust Framework to connect CivicActions Gov accessibility scans to the A11yWatch API
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
-- [a11ywatch/a11ywatch](https://github.com/a11ywatch/a11ywatch) - The web accessibility tool
+- [a11ywatch/a11ywatch](https://github.com/a11ywatch/a11ywatch) - Web accessibility automation excellence
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [bareboat-necessities/rust-modules](https://github.com/bareboat-necessities/rust-modules) - Various modules in Rust
 - [cloudflare/dkim](https://github.com/cloudflare/dkim) - DKIM (RFC6376) implementation
