@@ -903,6 +903,7 @@
 - [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your sp
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [galexrt/container-healthchecks](https://github.com/galexrt/container-healthchecks) - Simple to use Container Image for https://github.com/healthchecks/healthchecks.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
@@ -1544,7 +1545,7 @@
 - [a11ywatch/core](https://github.com/a11ywatch/core) - A11yWatch API and core Lite
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
-- [a11ywatch/a11ywatch](https://github.com/a11ywatch/a11ywatch) - The web accessibility tool
+- [a11ywatch/a11ywatch](https://github.com/a11ywatch/a11ywatch) - Web accessibility automation excellence
 - [cisagov/dotgov-data](https://github.com/cisagov/dotgov-data) - Official list of .gov domains
 - [department-of-veterans-affairs/wtf-bot](https://github.com/department-of-veterans-affairs/wtf-bot) - A Flask application that powers the /wtf Slack command
 - [CivicActions/ssp-toolkit](https://github.com/CivicActions/ssp-toolkit) - Automate the creation of a System Security Plan (SSP)
