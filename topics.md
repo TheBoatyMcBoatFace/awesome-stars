@@ -626,7 +626,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -1359,6 +1359,7 @@
 
 ## others 
 
+- [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [Tblue/python-jproperties](https://github.com/Tblue/python-jproperties) - Java Property file parser and writer for Python
 - [PierreDurrr/rollarr](https://github.com/PierreDurrr/rollarr) - All credits goes to TheHumanRobot
 - [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr
@@ -1878,7 +1879,7 @@
 ## rust 
 
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest unstoppable web crawler, indexer, and scraper
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
