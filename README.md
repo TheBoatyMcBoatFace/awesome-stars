@@ -355,7 +355,7 @@
 - [yashdeshpande/Post-for-Approval](https://github.com/yashdeshpande/Post-for-Approval) - Approval app for social media content.
 - [opensupports/opensupports](https://github.com/opensupports/opensupports) - OpenSupports is a simple and beautiful open source ticket system
 - [nasa/Open-Source-Catalog](https://github.com/nasa/Open-Source-Catalog) - Contains the NASA open source software catalog for automatic deployment to code.nasa.gov
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [facebookarchive/react-360](https://github.com/facebookarchive/react-360) - Create amazing 360 and VR content using React
 - [adhorn/poliko](https://github.com/adhorn/poliko) - Demo web applications that use AWS Artificial Intelligence services  Rekognition and Polly (http://poliko.adhorn.me)
 
@@ -394,7 +394,7 @@
 ## Objective-C 
 
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
-- [facebook/FLAnimatedImage](https://github.com/facebook/FLAnimatedImage) - Performant animated GIF engine for iOS
+- [facebookarchive/FLAnimatedImage](https://github.com/facebookarchive/FLAnimatedImage) - Performant animated GIF engine for iOS
 
 ## Objective-C++ 
 
