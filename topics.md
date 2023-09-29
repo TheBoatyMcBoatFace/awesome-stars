@@ -728,7 +728,7 @@
 
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## game 
 
@@ -1044,7 +1044,7 @@
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [kkoutoup/UTM-Link-Builder](https://github.com/kkoutoup/UTM-Link-Builder) - A single page app that helps people build UTM codes for ad campaigns and better GA tracking
 - [opensupports/opensupports](https://github.com/opensupports/opensupports) - OpenSupports is a simple and beautiful open source ticket system
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## jekyll 
 
@@ -1105,7 +1105,7 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## linux 
 
@@ -1635,7 +1635,7 @@
 - [facebookarchive/react-360](https://github.com/facebookarchive/react-360) - Create amazing 360 and VR content using React
 - [facebookarchive/pop](https://github.com/facebookarchive/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
 - [facebookarchive/MazeBase](https://github.com/facebookarchive/MazeBase) - Simple environment for creating very simple 2D games and training neural network models to perform tasks within them
-- [facebook/FLAnimatedImage](https://github.com/facebook/FLAnimatedImage) - Performant animated GIF engine for iOS
+- [facebookarchive/FLAnimatedImage](https://github.com/facebookarchive/FLAnimatedImage) - Performant animated GIF engine for iOS
 - [facebookarchive/fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions
 
 ## package-manager 
@@ -1831,7 +1831,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [directus/examples](https://github.com/directus/examples) - Integration Examples with Directus
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## react-native 
 
