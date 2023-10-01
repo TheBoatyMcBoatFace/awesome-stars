@@ -217,7 +217,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [navit-gps/navit](https://github.com/navit-gps/navit) - The open source (GPL v2) turn-by-turn navigation software for many OS
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## angular 
 
@@ -433,7 +433,6 @@
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆
@@ -630,7 +629,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -694,7 +693,7 @@
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## firefox 
 
@@ -711,7 +710,7 @@
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## font 
 
@@ -934,7 +933,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [truemail-rb/truemail](https://github.com/truemail-rb/truemail) - 🚀 Configurable framework agnostic plain Ruby 📨 email validator/verifier. Verify email via Regex, DNS, SMTP and even more. Be sure that email address valid and exists.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
@@ -984,7 +983,7 @@
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [rootstrap/ios-base](https://github.com/rootstrap/ios-base) - Boilerplate for new iOS projects using Swift 5. Provides a handful of functionalities.
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## iot 
 
@@ -1039,7 +1038,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [DIVERSIFY-project/amiunique](https://github.com/DIVERSIFY-project/amiunique) - Learn how identifiable you are on the Internet
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [kkoutoup/UTM-Link-Builder](https://github.com/kkoutoup/UTM-Link-Builder) - A single page app that helps people build UTM codes for ad campaigns and better GA tracking
@@ -1949,7 +1948,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1969,7 +1968,7 @@
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [cloudflare/workers-airtable-form](https://github.com/cloudflare/workers-airtable-form) - Example codebase showing how to handle form data using Cloudflare Workers serverless functions - sending the data to Airtable
 
@@ -2032,7 +2031,7 @@
 - [rootstrap/ios-base](https://github.com/rootstrap/ios-base) - Boilerplate for new iOS projects using Swift 5. Provides a handful of functionalities.
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## swiftui 
 
@@ -2128,7 +2127,7 @@
 - [eldy/AWStats](https://github.com/eldy/AWStats) - AWStats Log Analyzer project (official sources)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 
 ## webapp 
