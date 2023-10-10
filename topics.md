@@ -19,7 +19,6 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
-- [backend](#backend)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -364,13 +363,6 @@
 
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [Azure/azure-pixel-tracker](https://github.com/Azure/azure-pixel-tracker) - PREVIEW: Main repository for related customizable Azure Pixel Tracker projects and resources.
-
-## backend 
-
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
-- [reacherhq/backend](https://github.com/reacherhq/backend) - ⚙️ REST backend for Reacher - Open-Source Email Verification API.
 
 ## bash 
 
@@ -1396,6 +1388,8 @@
 
 ## others 
 
+- [JMarkstrom/PIV](https://github.com/JMarkstrom/PIV) - Personal Identity Verification (PIV) related assets for YubiKeys
+- [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [paulokinho/obico-octoprint](https://github.com/paulokinho/obico-octoprint) - Obico running inside Octoprint
 - [balena-labs-research/starter-interface](https://github.com/balena-labs-research/starter-interface) - A device interface for using Balena devices. It can be used to interact with your device, or as a starter project to create your own interface.
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
@@ -1748,6 +1742,8 @@
 
 ## python 
 
+- [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
@@ -1803,6 +1799,7 @@
 
 ## python3 
 
+- [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
