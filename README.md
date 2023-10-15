@@ -167,6 +167,7 @@
 
 ## Go 
 
+- [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -523,6 +524,7 @@
 
 ## Perl 
 
+- [apache/spamassassin](https://github.com/apache/spamassassin) - Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests
 - [apple-oss-distributions/headerdoc](https://github.com/apple-oss-distributions/headerdoc) - 
 - [eldy/AWStats](https://github.com/eldy/AWStats) - AWStats Log Analyzer project (official sources)
 
@@ -701,7 +703,7 @@
 - [ajavageek/http-api-rust](https://github.com/ajavageek/http-api-rust) - 
 - [CivicActions/public-sector-a11y_connect](https://github.com/CivicActions/public-sector-a11y_connect) - A collection of dockerized server-side applications using the Rocketweb Rust Framework to connect CivicActions Gov accessibility scans to the A11yWatch API
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
-- [a11ywatch/a11ywatch](https://github.com/a11ywatch/a11ywatch) - Web accessibility automation excellence
+- [a11ywatch/a11ywatch](https://github.com/a11ywatch/a11ywatch) - Web accessibility automation tool
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [bareboat-necessities/rust-modules](https://github.com/bareboat-necessities/rust-modules) - Various modules in Rust
 - [cloudflare/dkim](https://github.com/cloudflare/dkim) - DKIM (RFC6376) implementation
