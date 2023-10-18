@@ -122,6 +122,7 @@
 
 ## CSS 
 
+- [JaouherK/streamDeck-weatherPlugin](https://github.com/JaouherK/streamDeck-weatherPlugin) - Popular Stream Deck plugin for Weather reporting
 - [usds/playbook](https://github.com/usds/playbook) - The Digital Services Playbook
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [department-of-veterans-affairs/va-digital-service-handbook](https://github.com/department-of-veterans-affairs/va-digital-service-handbook) - Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
@@ -279,6 +280,7 @@
 
 ## JavaScript 
 
+- [JaSiLez/smtp-notifier](https://github.com/JaSiLez/smtp-notifier) - GitHub Actions SMTP Notifier
 - [j12y/millicast-sdk](https://github.com/j12y/millicast-sdk) - SDK for building a realtime broadcaster using the Millicast platform.
 - [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
 - [postalserver/docs](https://github.com/postalserver/docs) - 📚 Documentation for the Postal mail server!
