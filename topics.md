@@ -193,7 +193,7 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source feedback platform for LLMs
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI 🥷
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
@@ -206,7 +206,7 @@
 
 ## analytics 
 
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished reports with SQL and markdown
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
@@ -413,7 +413,7 @@
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
 - [davidleitw/naming](https://github.com/davidleitw/naming) - naming made easy: Elevate your code's readability with just one command.
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI 🥷
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
 - [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -539,7 +539,7 @@
 
 ## data-visualization 
 
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished reports with SQL and markdown
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 - The Next GEN Platform for Multimodal Training Data. #3D annotation, 3D segmentation, lidar-camera fusion annotation, image annotation and rlhf tools are supported!
@@ -667,7 +667,7 @@
 
 - [postalserver/docs](https://github.com/postalserver/docs) - 📚 Documentation for the Postal mail server!
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI 🥷
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [mintlify/connector](https://github.com/mintlify/connector) - 🔗 Connect code to documentation in your IDE
@@ -793,7 +793,7 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [guilyx/guilyx](https://github.com/guilyx/guilyx) - Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated README file generator
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI 🥷
 - [iampavangandhi/iampavangandhi](https://github.com/iampavangandhi/iampavangandhi) - Hey 👋, Glad to see you here! Check out this repository to learn more about me 🤓. You can also use it to make your awesome GitHub README ✨  (Don't Just Fork, Star Too 😅)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
@@ -954,6 +954,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki
 - [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
@@ -1620,7 +1621,6 @@
 - [TheBoatyMcBoatFace/ghostyboat](https://github.com/TheBoatyMcBoatFace/ghostyboat) - Ghost repo for BentleyHensel.com
 - [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
 - [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
-- [home-assistant/intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant
 - [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [axiomhq/awesome-axiom](https://github.com/axiomhq/awesome-axiom) - A curated list of awesome Axiom Platform, libraries, open source repos, guides, blogs, Documentation and other resources.
 - [bareboat-necessities/rust-modules](https://github.com/bareboat-necessities/rust-modules) - Various modules in Rust
@@ -2082,7 +2082,7 @@
 
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
-- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished data products with SQL and markdown
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build polished reports with SQL and markdown
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
