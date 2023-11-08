@@ -402,6 +402,7 @@
 
 ## Makefile 
 
+- [usnistgov/oscal-content](https://github.com/usnistgov/oscal-content) - NIST SP 800-53 content and other OSCAL content examples
 - [department-of-veterans-affairs/acronyms](https://github.com/department-of-veterans-affairs/acronyms) - A list of VA acronyms
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -701,7 +702,6 @@
 - [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
@@ -750,7 +750,6 @@
 - [docker-library/healthcheck](https://github.com/docker-library/healthcheck) - https://github.com/docker/docker/issues/21142 prototypes
 - [MatthewVance/unbound-docker](https://github.com/MatthewVance/unbound-docker) - Unbound DNS Server Docker Image
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
-- [usnistgov/oscal-content](https://github.com/usnistgov/oscal-content) - NIST SP 800-53 content and other OSCAL content examples
 - [CivicActions/oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions) - OSCAL reusable component definitions library
 - [bareboat-necessities/lysmarine_gen](https://github.com/bareboat-necessities/lysmarine_gen) - With BBN OS you can build a central boat computer. BBN OS is free and open source. It is based on commonly used community supported open source projects such as SignalK, PyPilot, OpenCPN, and others. 
 - [standardnotes/self-hosted](https://github.com/standardnotes/self-hosted) - [Legacy] Self-host your own Standard Notes server for end-to-end encrypted notes and files
@@ -793,7 +792,7 @@
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [GSA/site-scanning-engine](https://github.com/GSA/site-scanning-engine) - The repository for the rearchitected site-scanning project, specifically the scanning engine itself.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize, and archive webpages.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize, and preserve webpages.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -806,6 +805,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [EndBug/label-sync](https://github.com/EndBug/label-sync) - :octocat: An action that allows you to sync labels from a repository or a config file
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
