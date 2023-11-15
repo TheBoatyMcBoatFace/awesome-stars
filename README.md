@@ -785,6 +785,7 @@
 
 ## TypeScript 
 
+- [admineral/OpenAI-Assistant-API-Chat](https://github.com/admineral/OpenAI-Assistant-API-Chat) - Official OpenAI-Assistant API starter. Users can specify the assistant's name, model, and description, and send messages to the assistant.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
