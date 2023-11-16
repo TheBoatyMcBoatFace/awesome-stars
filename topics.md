@@ -1459,7 +1459,7 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [GSA/site-scanning-engine](https://github.com/GSA/site-scanning-engine) - The repository for the rearchitected site-scanning project, specifically the scanning engine itself.
 - [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC) - SMC emulator layer
-- [Wizarrrr/wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
+- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [biati-digital/nova-advanced-new-file](https://github.com/biati-digital/nova-advanced-new-file) - Create files easily
 - [docker-library/postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
 - [belcar-s/nova-external-terminal](https://github.com/belcar-s/nova-external-terminal) - Open Terminal.app from Nova's command palette!
