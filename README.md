@@ -19,6 +19,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Hack](#hack)
 - [Handlebars](#handlebars)
@@ -227,6 +228,10 @@
 - [cloudhead/pixelog](https://github.com/cloudhead/pixelog) - simple pixel tracking server
 - [trumail/trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
 
+## HCL 
+
+- [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation
+
 ## HTML 
 
 - [GovTechSG/purple-hats-desktop](https://github.com/GovTechSG/purple-hats-desktop) - Purple hats Desktop is a customisable, automated web accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with disabilities (PWDs
@@ -285,6 +290,7 @@
 
 ## JavaScript 
 
+- [hermanho/MMM-GooglePhotos](https://github.com/hermanho/MMM-GooglePhotos) - Display your photos on MagicMirror from Google Photos.
 - [JaSiLez/smtp-notifier](https://github.com/JaSiLez/smtp-notifier) - GitHub Actions SMTP Notifier
 - [j12y/millicast-sdk](https://github.com/j12y/millicast-sdk) - SDK for building a realtime broadcaster using the Millicast platform.
 - [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
@@ -555,6 +561,7 @@
 
 ## Python 
 
+- [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm) - MagicMirror Package Manager
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
