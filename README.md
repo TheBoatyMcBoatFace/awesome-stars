@@ -564,6 +564,7 @@
 
 ## Python 
 
+- [n0bel/PiClock](https://github.com/n0bel/PiClock) - A Fancy Clock built around a monitor and a Raspberry Pi
 - [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm) - MagicMirror Package Manager
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
