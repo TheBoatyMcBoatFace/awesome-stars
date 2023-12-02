@@ -590,7 +590,7 @@
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [Tracel-AI/burn](https://github.com/Tracel-AI/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
@@ -1212,7 +1212,7 @@
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [valeman/awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
-- [Tracel-AI/burn](https://github.com/Tracel-AI/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
@@ -1333,7 +1333,7 @@
 ## neural-network 
 
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [Tracel-AI/burn](https://github.com/Tracel-AI/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 
 ## nextjs 
@@ -1453,6 +1453,9 @@
 
 ## others 
 
+- [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index) - A unified layer index for OSM editors.
+- [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
+- [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [peachananr/planetarium](https://github.com/peachananr/planetarium) - Construct an Interactive Planet and Build the Universe on your website
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [RGroza/Sand-Table](https://github.com/RGroza/Sand-Table) - 
@@ -1915,7 +1918,7 @@
 ## pytorch 
 
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [Tracel-AI/burn](https://github.com/Tracel-AI/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
@@ -2031,7 +2034,7 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler written in Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [Tracel-AI/burn](https://github.com/Tracel-AI/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
