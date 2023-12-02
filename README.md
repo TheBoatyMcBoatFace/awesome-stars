@@ -295,6 +295,7 @@
 
 ## JavaScript 
 
+- [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index) - A unified layer index for OSM editors.
 - [peachananr/planetarium](https://github.com/peachananr/planetarium) - Construct an Interactive Planet and Build the Universe on your website
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [hermanho/MMM-GooglePhotos](https://github.com/hermanho/MMM-GooglePhotos) - Display your photos on MagicMirror from Google Photos.
@@ -725,7 +726,7 @@
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler written in Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [Tracel-AI/burn](https://github.com/Tracel-AI/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -799,6 +800,7 @@
 
 ## Swift 
 
+- [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
@@ -812,6 +814,7 @@
 
 ## TypeScript 
 
+- [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [admineral/OpenAI-Assistant-API-Chat](https://github.com/admineral/OpenAI-Assistant-API-Chat) - OpenAI Assistant API Template: Customize your Assistant and chat with your files.
