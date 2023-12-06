@@ -75,6 +75,8 @@
 
 ## C 
 
+- [ThingPulse/esp32-spotify-remote](https://github.com/ThingPulse/esp32-spotify-remote) - 
+- [ThingPulse/esp8266-spotify-remote](https://github.com/ThingPulse/esp8266-spotify-remote) - Control your Spotify player from a ESP8266 with color touch display
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [csBlueChip/FlipperZero_WiiEC](https://github.com/csBlueChip/FlipperZero_WiiEC) - A FlipperZero application to test Wii Extension Controllers.
@@ -107,6 +109,7 @@
 
 ## C++ 
 
+- [ThingPulse/esp8266-weather-station](https://github.com/ThingPulse/esp8266-weather-station) - ESP8266 Weather Station library supporting OpenWeatherMap, Aeris and other sources
 - [OpenSpace/OpenSpace](https://github.com/OpenSpace/OpenSpace) - This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at 
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
@@ -419,7 +422,6 @@
 
 ## Makefile 
 
-- [usnistgov/oscal-content](https://github.com/usnistgov/oscal-content) - NIST SP 800-53 content and other OSCAL content examples
 - [department-of-veterans-affairs/acronyms](https://github.com/department-of-veterans-affairs/acronyms) - A list of VA acronyms
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
@@ -706,7 +708,7 @@
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
-- [Floppy/van_dam](https://github.com/Floppy/van_dam) - A self-hosted digital asset manager for 3d print files
+- [Floppy/van_dam](https://github.com/Floppy/van_dam) - A self-hosted digital asset manager for 3d print files. Soon to be renamed "Manyfold"
 - [faker-ruby/faker](https://github.com/faker-ruby/faker) - A library for generating fake data such as names, addresses, and phone numbers.
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [GSA/punchcard](https://github.com/GSA/punchcard) - Repository of synonyms, protected words, stop words, and localizations
@@ -872,7 +874,7 @@
 - [github/Dynamic-Template-Engine](https://github.com/github/Dynamic-Template-Engine) - A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using templates (e.g. handlebars)
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [mintlify/connector](https://github.com/mintlify/connector) - 🔗 Connect code to documentation in your IDE
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performan
 - [jbergstroem/nova-actionlint](https://github.com/jbergstroem/nova-actionlint) - A Nova extension providing visual feedback from Actionlint
 - [kilbd/nova-rust](https://github.com/kilbd/nova-rust) - A Rust extension for the Nova text editor, using the Rust Analyzer language server.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
@@ -934,6 +936,7 @@
 
 - [CMSgov/ars-machine-readable](https://github.com/CMSgov/ars-machine-readable) - Publish a machine readable version of the ARS standards to facilitate compliance as code efforts.
 - [usnistgov/oscal-tools](https://github.com/usnistgov/oscal-tools) - Tools for the OSCAL project
+- [usnistgov/oscal-content](https://github.com/usnistgov/oscal-content) - NIST SP 800-53 content and other OSCAL content examples
 - [usnistgov/OSCAL](https://github.com/usnistgov/OSCAL) - Open Security Controls Assessment Language (OSCAL)
 
 
