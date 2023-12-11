@@ -135,6 +135,7 @@
 - [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
+- [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -1625,7 +1626,6 @@
 - [github/globalmaintainersummit.github.com](https://github.com/github/globalmaintainersummit.github.com) - Website for upcoming Global Source Maintainer Summit · June 8-9 2021.
 - [trouyer/opencpn-docker](https://github.com/trouyer/opencpn-docker) - A container for OpenCPN
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [apple-oss-distributions/headerdoc](https://github.com/apple-oss-distributions/headerdoc) - 
 - [kilbd/nova-rust](https://github.com/kilbd/nova-rust) - A Rust extension for the Nova text editor, using the Rust Analyzer language server.
 - [CivicActions/public-sector-a11y_connect](https://github.com/CivicActions/public-sector-a11y_connect) - A collection of dockerized server-side applications using the Rocketweb Rust Framework to connect CivicActions Gov accessibility scans to the A11yWatch API
@@ -1723,7 +1723,6 @@
 - [frederickding/docker-save-attachments](https://github.com/frederickding/docker-save-attachments) - Dockerized utility for fetching email and saving attachments
 - [ePADD/epadd](https://github.com/ePADD/epadd) - ePADD is a software package developed by Stanford University's Special Collections & University Archives that supports archival processes around the appraisal, ingest, processing, discovery, and deliv
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [sysengineer13/ServiceNever](https://github.com/sysengineer13/ServiceNever) - ServiceNever is a help desk ticketing system. Service No-, I mean Never, is just as useful as a SharePoint list.  Designed by IT for IT.
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
@@ -1828,6 +1827,18 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+
+## privacy 
+
+- [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative where you own what you type on your keyboard.
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
+- [DIVERSIFY-project/amiunique](https://github.com/DIVERSIFY-project/amiunique) - Learn how identifiable you are on the Internet
+- [xyfir/ptorx](https://github.com/xyfir/ptorx) - 📩🛡 Email privacy. Anonymously send and receive with alias forwarding.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## programming 
 
