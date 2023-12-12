@@ -640,7 +640,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [cycneuramus/signal-aichat](https://github.com/cycneuramus/signal-aichat) - An AI chatbot for Signal powered by Google Bard, Bing Chat, ChatGPT, HuggingChat, and llama.cpp
 - [allegro/ralph](https://github.com/allegro/ralph) - Ralph is the CMDB / Asset Management system for data center and back office hardware.
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag_right: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project http
+- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [blacklanternsecurity/public-dns-servers](https://github.com/blacklanternsecurity/public-dns-servers) - A CI/CD-verified list of the internet's known-good public DNS servers (from public-dns.info) Updated weekly!
 - [vortexau/dnsvalidator](https://github.com/vortexau/dnsvalidator) - Maintains a list of IPv4 DNS servers by verifying them against baseline servers, and ensuring accurate responses.
@@ -743,7 +743,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [ndouglas/hornvale-old](https://github.com/ndouglas/hornvale-old) - Hornvale is an experimental text adventure game, programmed in Rust.
 - [TheBoatyMcBoatFace/rusty_connect](https://github.com/TheBoatyMcBoatFace/rusty_connect) - 
@@ -823,7 +823,7 @@
 ## TypeScript 
 
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
-- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [admineral/OpenAI-Assistant-API-Chat](https://github.com/admineral/OpenAI-Assistant-API-Chat) - OpenAI Assistant API Template: Customize your Assistant and chat with your files.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
@@ -868,7 +868,7 @@
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
 - [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
-- [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, m
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
