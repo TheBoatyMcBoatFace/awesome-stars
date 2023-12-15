@@ -244,7 +244,7 @@
 ## HTML 
 
 - [OpenSpace/OpenSpace-Docs](https://github.com/OpenSpace/OpenSpace-Docs) - 
-- [GovTechSG/purple-hats-desktop](https://github.com/GovTechSG/purple-hats-desktop) - Purple hats Desktop is a customisable, automated web accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with disabilities (PWDs
+- [GovTechSG/purple-a11y-desktop](https://github.com/GovTechSG/purple-a11y-desktop) - Purple A11y Desktop is a customisable, automated web accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with disabilities (PWDs
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [spotify/spotify.github.io](https://github.com/spotify/spotify.github.io) - Showcase site for hand-picked open-source projects by Spotify
