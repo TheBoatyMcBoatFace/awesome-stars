@@ -536,7 +536,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [karlomikus/bar-assistant](https://github.com/karlomikus/bar-assistant) - Bar assistant is a self hosted application for managing your home bar.
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
@@ -580,6 +580,7 @@
 
 ## Python 
 
+- [borisbu/OctoRelay](https://github.com/borisbu/OctoRelay) - OctoPrint / Octopi plugin to control relays
 - [Uptime-Lab/FanUnit](https://github.com/Uptime-Lab/FanUnit) - Fan unit for Compute Blade enclosure
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [RGroza/Sand-Table](https://github.com/RGroza/Sand-Table) - 
@@ -699,7 +700,7 @@
 - [maxsptz/emailpyspam](https://github.com/maxsptz/emailpyspam) - A python 3+ program to spam emails to a list of users repetitively
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB's AI SQL Server connects AI models to real time data
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
@@ -841,7 +842,7 @@
 - [GSA/site-scanning-engine](https://github.com/GSA/site-scanning-engine) - The repository for the rearchitected site-scanning project, specifically the scanning engine itself.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
-- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build customized Admin Panel for your App and Website. Supports multi-person collaboration. Significantly reduce development time
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Build AI Driven Business App
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [edgar971/open-chat](https://github.com/edgar971/open-chat) - A self-hosted, offline, ChatGPT-like chatbot with different LLM support. 100% private, with no data leaving your device.
