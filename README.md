@@ -581,6 +581,7 @@
 
 ## Python 
 
+- [RonLek/wordcloud-api](https://github.com/RonLek/wordcloud-api) - Send text. Receive wordclouds!
 - [borisbu/OctoRelay](https://github.com/borisbu/OctoRelay) - OctoPrint / Octopi plugin to control relays
 - [Uptime-Lab/FanUnit](https://github.com/Uptime-Lab/FanUnit) - Fan unit for Compute Blade enclosure
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
