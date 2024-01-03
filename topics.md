@@ -245,6 +245,7 @@
 
 ## api 
 
+- [RonLek/wordcloud-api](https://github.com/RonLek/wordcloud-api) - Send text. Receive wordclouds!
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -763,6 +764,7 @@
 
 ## flask 
 
+- [RonLek/wordcloud-api](https://github.com/RonLek/wordcloud-api) - Send text. Receive wordclouds!
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 
 ## flutter 
@@ -1092,6 +1094,7 @@
 
 ## javascript 
 
+- [RonLek/wordcloud-api](https://github.com/RonLek/wordcloud-api) - Send text. Receive wordclouds!
 - [JaouherK/streamDeck-weatherPlugin](https://github.com/JaouherK/streamDeck-weatherPlugin) - Popular Stream Deck plugin for Weather reporting
 - [JaSiLez/smtp-notifier](https://github.com/JaSiLez/smtp-notifier) - GitHub Actions SMTP Notifier
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -1872,6 +1875,7 @@
 
 ## python 
 
+- [RonLek/wordcloud-api](https://github.com/RonLek/wordcloud-api) - Send text. Receive wordclouds!
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm) - MagicMirror Package Manager
