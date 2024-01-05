@@ -183,6 +183,7 @@
 
 ## Go 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
@@ -445,6 +446,7 @@
 
 ## Others 
 
+- [VoronDesign/Voron-Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) - 
 - [shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint](https://github.com/shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint) - New Raspberry Pi Compute Module 4 Eagle Library and 3D Models
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
 - [kata0510/Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
