@@ -1856,7 +1856,7 @@
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [DIVERSIFY-project/amiunique](https://github.com/DIVERSIFY-project/amiunique) - Learn how identifiable you are on the Internet
-- [xyfir/ptorx](https://github.com/xyfir/ptorx) - 📩🛡 Email privacy. Anonymously send and receive with alias forwarding.
+- [xyfir/ptorx](https://github.com/xyfir/ptorx) - 📩🛡 Email privacy. Anonymously send and receive with alias forwarding. (Abandoned)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## programming 
@@ -2119,7 +2119,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
-- [xyfir/ptorx](https://github.com/xyfir/ptorx) - 📩🛡 Email privacy. Anonymously send and receive with alias forwarding.
+- [xyfir/ptorx](https://github.com/xyfir/ptorx) - 📩🛡 Email privacy. Anonymously send and receive with alias forwarding. (Abandoned)
 
 ## self-hosted 
 
