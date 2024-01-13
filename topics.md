@@ -512,6 +512,7 @@
 
 ## cpp 
 
+- [feelfreelinux/cspot](https://github.com/feelfreelinux/cspot) - A Spotify Connect player targeting, but not limited to embedded devices (ESP32).
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
