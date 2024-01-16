@@ -1774,7 +1774,7 @@
 - [owendb/GA-URL-Builder-Plus](https://github.com/owendb/GA-URL-Builder-Plus) - Simplified Google Analytics campaign parameter URL tracking
 - [NikolayS/postgresql-http-client](https://github.com/NikolayS/postgresql-http-client) - HTTP client inside your PostgreSQL. Easy to install. No compilation required. API-friendly
 - [pramsey/pgsql-http](https://github.com/pramsey/pgsql-http) - HTTP client for PostgreSQL, retrieve a web page from inside the database.
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [KaamiDev/HTML-to-Image-API](https://github.com/KaamiDev/HTML-to-Image-API) - API to convert HTML and CSS code into a lossless image using Node.js with puppeteer and a headless chromium browser.
 - [JasonHHouse/gaps](https://github.com/JasonHHouse/gaps) - Find the missing movies in your Plex Server
 - [douginoz/grafana-plex](https://github.com/douginoz/grafana-plex) - grafana service monitoring for Plex and underlying services
