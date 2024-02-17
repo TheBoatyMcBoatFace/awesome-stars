@@ -1517,6 +1517,7 @@
 
 ## others 
 
+- [freegeek-pdx/macOS-Testing-and-Deployment-Scripts](https://github.com/freegeek-pdx/macOS-Testing-and-Deployment-Scripts) - 
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
