@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AppleScript](#applescript)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
@@ -56,6 +57,10 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
+
+## AppleScript 
+
+- [freegeek-pdx/macOS-Testing-and-Deployment-Scripts](https://github.com/freegeek-pdx/macOS-Testing-and-Deployment-Scripts) - 
 
 ## Assembly 
 
