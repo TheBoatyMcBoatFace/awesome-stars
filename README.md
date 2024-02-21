@@ -149,7 +149,7 @@
 - [department-of-veterans-affairs/va-digital-service-handbook](https://github.com/department-of-veterans-affairs/va-digital-service-handbook) - Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
 - [TheBoatyMcBoatFace/ghostyboat](https://github.com/TheBoatyMcBoatFace/ghostyboat) - Ghost repo for BentleyHensel.com
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-- [directus-community/examples](https://github.com/directus-community/examples) - Integration Examples with Directus
+- [directus-labs/examples](https://github.com/directus-labs/examples) - Integration Examples with Directus
 - [owendb/GA-URL-Builder-Plus](https://github.com/owendb/GA-URL-Builder-Plus) - Simplified Google Analytics campaign parameter URL tracking
 
 ## Clojure 
