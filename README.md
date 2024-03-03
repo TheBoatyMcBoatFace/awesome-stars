@@ -600,6 +600,7 @@
 
 ## Python 
 
+- [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An Audnexus client proof of concept for Plex, providing rich author and audiobook data. Developed in Python, offering enhanced user experiences via Plex's legacy plugin agent system.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
