@@ -899,7 +899,7 @@
 - [DrakeAxelrod/json-resume-service](https://github.com/DrakeAxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
 - [Siteimprove/alfa](https://github.com/Siteimprove/alfa) - :wheelchair: Suite of open and standards-based tools for performing reliable accessibility conformance testing at scale
 - [cloud-carbon-footprint/cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
-- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 - The Next GEN Platform for Multimodal Training Data. #3D annotation, 3D segmentation, lidar-camera fusion annotation, image annotation and RLHF tools are supported!
+- [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
@@ -955,7 +955,6 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
-- [cwackerfuss/reactle](https://github.com/cwackerfuss/reactle) - A word-guessing game made using React, Typescript, and Tailwind
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
