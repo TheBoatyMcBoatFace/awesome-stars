@@ -316,6 +316,7 @@
 
 ## JavaScript 
 
+- [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [peachananr/planetarium](https://github.com/peachananr/planetarium) - Construct an Interactive Planet and Build the Universe on your website
 - [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index) - A unified layer index for OSM editors.
 - [hermanho/MMM-GooglePhotos](https://github.com/hermanho/MMM-GooglePhotos) - Display your photos on MagicMirror from Google Photos.
