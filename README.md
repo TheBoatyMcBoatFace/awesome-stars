@@ -424,6 +424,7 @@
 
 ## Jupyter Notebook 
 
+- [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [marshmellow77/text-summarisation-project](https://github.com/marshmellow77/text-summarisation-project) - A tutorial on how to set up a text summarisation project
 - [Data4Democracy/zip-code-to-county](https://github.com/Data4Democracy/zip-code-to-county) - The code that generates the zipcode to look up csv's based on government data.  Dataset can be found here https://data.world/niccolley/us-zipcode-to-county-state
