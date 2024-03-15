@@ -1537,6 +1537,7 @@
 
 ## others 
 
+- [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
 - [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others.
