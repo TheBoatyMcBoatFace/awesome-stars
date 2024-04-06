@@ -264,6 +264,7 @@
 
 ## HTML 
 
+- [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [OpenSpace/OpenSpace-Docs](https://github.com/OpenSpace/OpenSpace-Docs) - 
 - [GovTechSG/purple-a11y-desktop](https://github.com/GovTechSG/purple-a11y-desktop) - Purple A11y Desktop is a customisable, automated web accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with disabilities (PWDs
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
@@ -323,6 +324,7 @@
 
 ## JavaScript 
 
+- [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [peachananr/planetarium](https://github.com/peachananr/planetarium) - Construct an Interactive Planet and Build the Universe on your website
@@ -816,6 +818,7 @@
 
 ## Shell 
 
+- [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [kandji-inc/support](https://github.com/kandji-inc/support) - Software provided by the Solutions Engineering and Support teams at Kandji, Inc.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [kartoza/docker-geoserver](https://github.com/kartoza/docker-geoserver) - A docker recipe for GeoServer
@@ -983,7 +986,7 @@
 
 ## Vue 
 
-- [balena-labs-research/starter-interface](https://github.com/balena-labs-research/starter-interface) - A device interface for using Balena devices. It can be used to interact with your device, or as a starter project to create your own interface.
+- [balena-io-experimental/starter-interface](https://github.com/balena-io-experimental/starter-interface) - A device interface for using Balena devices. It can be used to interact with your device, or as a starter project to create your own interface.
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
