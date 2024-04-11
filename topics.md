@@ -1041,7 +1041,6 @@
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1469,6 +1468,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [directus-labs/examples](https://github.com/directus-labs/examples) - Integration Examples with Directus
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## nlp 
 
@@ -1758,6 +1758,7 @@
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [wellenvogel/avnav](https://github.com/wellenvogel/avnav) - using the raspberry pi as a nav computer
 - [github/government.github.com](https://github.com/github/government.github.com) - Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [github/Dynamic-Template-Engine](https://github.com/github/Dynamic-Template-Engine) - A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using templates (e.g. handlebars)
 - [github/globalmaintainersummit.github.com](https://github.com/github/globalmaintainersummit.github.com) - Website for upcoming Global Source Maintainer Summit · June 8-9 2021.
 - [trouyer/opencpn-docker](https://github.com/trouyer/opencpn-docker) - A container for OpenCPN
@@ -2146,6 +2147,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [directus-labs/examples](https://github.com/directus-labs/examples) - Integration Examples with Directus
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
