@@ -198,6 +198,8 @@
 
 ## Go 
 
+- [ofek/docker-volume-gcs](https://github.com/ofek/docker-volume-gcs) - Docker Volume Plugin for Google Cloud Storage
+- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
@@ -878,6 +880,7 @@
 
 ## TypeScript 
 
+- [reddit/devvit](https://github.com/reddit/devvit) - Reddit for Developers
 - [egeldenhuys/ghost-cloudflare-r2](https://github.com/egeldenhuys/ghost-cloudflare-r2) - Cloudflare R2 storage adapter for Ghost
 - [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
 - [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others.
@@ -976,7 +979,7 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [reacherhq/reacher-js](https://github.com/reacherhq/reacher-js) - TypeScript wrapper library over Reacher API
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
