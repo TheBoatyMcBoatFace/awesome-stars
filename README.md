@@ -882,6 +882,7 @@
 
 ## TypeScript 
 
+- [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [reddit/devvit](https://github.com/reddit/devvit) - Reddit for Developers
 - [egeldenhuys/ghost-cloudflare-r2](https://github.com/egeldenhuys/ghost-cloudflare-r2) - Cloudflare R2 storage adapter for Ghost
 - [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
