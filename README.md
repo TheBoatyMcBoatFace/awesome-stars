@@ -492,7 +492,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [Kapeli/Dash-Alfred-Workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) - Dash Alfred Workflow
-- [valeman/awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
