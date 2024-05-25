@@ -649,6 +649,7 @@
 
 ## design 
 
+- [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 
 ## devops 
