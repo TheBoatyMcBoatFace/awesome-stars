@@ -878,6 +878,7 @@
 
 ## github 
 
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
@@ -1621,6 +1622,7 @@
 
 ## others 
 
+- [project-open-data/project-open-data.github.io](https://github.com/project-open-data/project-open-data.github.io) - Open Data Policy — Managing Information as an Asset
 - [fecgov/fec-cms](https://github.com/fecgov/fec-cms) - The content management system (CMS) for the new Federal Election Commission website.
 - [xdgrulez/datamesh](https://github.com/xdgrulez/datamesh) - Data Mesh in Practice Open Source Book
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
@@ -2269,6 +2271,7 @@
 
 ## rust 
 
+- [TheBoatyMcBoatFace/good-pdc](https://github.com/TheBoatyMcBoatFace/good-pdc) - It makes sure that the archive files on data.cms.gov/provider-data/ are actually working. Not an official government codebase.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
