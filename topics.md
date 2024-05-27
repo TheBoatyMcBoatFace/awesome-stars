@@ -1787,7 +1787,7 @@
 - [AndrewHolmes060/Plex-Preroll-Builder](https://github.com/AndrewHolmes060/Plex-Preroll-Builder) - just a simple python script to build a recently added preroll for your plex server
 - [cds-snc/automatic-website-scanning](https://github.com/cds-snc/automatic-website-scanning) - Runs automatic scanning tools against CDS website properties
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
-- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Plex Meta Manager
+- [Kometa-Team/Community-Configs](https://github.com/Kometa-Team/Community-Configs) - Config files for Kometa
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [Robbbbbbbbb/tesla-chargeport](https://github.com/Robbbbbbbbb/tesla-chargeport) - 
 - [rjabdurrahman/thisiswcag-beta](https://github.com/rjabdurrahman/thisiswcag-beta) - 
