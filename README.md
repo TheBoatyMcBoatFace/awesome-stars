@@ -180,7 +180,7 @@
 
 ## Dockerfile 
 
-- [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost 5 Self hosted on Kubernetes (@TryGhost) k3s, GKE, AKS, etc, production-ready, with our hardened distroless non root container, amd64 and arm64 support
+- [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost 5 Self hosted on Kubernetes | Hardened distroless rootless multiarch image. k3s, GKE, AKS, EKS, etc.
 - [paulokinho/obico-octoprint](https://github.com/paulokinho/obico-octoprint) - Obico running inside Octoprint
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [RynoM/self-hosted-deployment](https://github.com/RynoM/self-hosted-deployment) - A deployment pipeline for docker compose stacks on a single host, running on Gitea Actions.
@@ -582,6 +582,7 @@
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [willfarrell/alfred-cdn-workflow](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 - [TheBoatyMcBoatFace/va.gov-cms](https://github.com/TheBoatyMcBoatFace/va.gov-cms) - Editor-centered management for Veteran-centered content.
 - [department-of-veterans-affairs/va.gov-cms-test](https://github.com/department-of-veterans-affairs/va.gov-cms-test) - DevOps Testing repository for https://github.com/department-of-veterans-affairs/va.gov-cms/. This repository is manually updated by the Platform-CMS team on an as-needed basis.
@@ -792,6 +793,7 @@
 
 ## Rust 
 
+- [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
 - [TheBoatyMcBoatFace/good-pdc](https://github.com/TheBoatyMcBoatFace/good-pdc) - It makes sure that the archive files on @CMSgov's Provider Data Catalog are actually working. Not an official government codebase.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -1016,7 +1018,6 @@
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [github/globalmaintainersummit.github.com](https://github.com/github/globalmaintainersummit.github.com) - Website for upcoming Global Source Maintainer Summit · June 8-9 2021.
-- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 ## XSLT 
