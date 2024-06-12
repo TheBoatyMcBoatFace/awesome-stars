@@ -202,6 +202,7 @@
 
 ## Go 
 
+- [Green-Software-Foundation/carbon-ci](https://github.com/Green-Software-Foundation/carbon-ci) - This project aims to build the capability to calculate the carbon emissions of an application via static analysis of the code and any infrastructure as code files in a repository.
 - [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
 - [ofek/docker-volume-gcs](https://github.com/ofek/docker-volume-gcs) - Docker Volume Plugin for Google Cloud Storage
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
@@ -793,8 +794,8 @@
 
 ## Rust 
 
-- [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
 - [TheBoatyMcBoatFace/good-pdc](https://github.com/TheBoatyMcBoatFace/good-pdc) - It makes sure that the archive files on @CMSgov's Provider Data Catalog are actually working. Not an official government codebase.
+- [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
