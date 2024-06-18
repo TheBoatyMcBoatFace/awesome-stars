@@ -1647,7 +1647,7 @@
 ## others 
 
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
-- [Green-Software-Foundation/carbon-ci](https://github.com/Green-Software-Foundation/carbon-ci) - This project aims to build the capability to calculate the carbon emissions of an application via static analysis of the code and any infrastructure as code files in a repository.
+- [Green-Software-Foundation/carbon-ci](https://github.com/Green-Software-Foundation/carbon-ci) - [!important] Archived Project This project is archived and is no longer being run inside the Green Software Foundation. Releases are *NOT* maintained or improved. This project cannot be reactivated.
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [fecgov/openFEC](https://github.com/fecgov/openFEC) - The first RESTful API for the Federal Election Commission. We're aiming to make campaign finance more accessible for journalists, academics, developers, and other transparency seekers.
 - [HenselForCongress/jack](https://github.com/HenselForCongress/jack) - 
