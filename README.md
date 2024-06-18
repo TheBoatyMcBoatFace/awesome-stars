@@ -202,7 +202,7 @@
 
 ## Go 
 
-- [Green-Software-Foundation/carbon-ci](https://github.com/Green-Software-Foundation/carbon-ci) - This project aims to build the capability to calculate the carbon emissions of an application via static analysis of the code and any infrastructure as code files in a repository.
+- [Green-Software-Foundation/carbon-ci](https://github.com/Green-Software-Foundation/carbon-ci) - [!important] Archived Project This project is archived and is no longer being run inside the Green Software Foundation. Releases are *NOT* maintained or improved. This project cannot be reactivated.
 - [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
 - [ofek/docker-volume-gcs](https://github.com/ofek/docker-volume-gcs) - Docker Volume Plugin for Google Cloud Storage
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
