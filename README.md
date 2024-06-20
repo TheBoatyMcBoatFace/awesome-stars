@@ -526,6 +526,7 @@
 - [jimilinuxguy/flipperzero-touchtunes](https://github.com/jimilinuxguy/flipperzero-touchtunes) - 
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [SignalK/signalk](https://github.com/SignalK/signalk) - Signal K starting point & Discussions in Github
+- [openplotter/docs](https://github.com/openplotter/docs) - OpenPlotter project documentation
 - [github/.github](https://github.com/github/.github) - Community health files for the @GitHub organization
 - [community/.github](https://github.com/community/.github) - 
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -739,7 +740,6 @@
 - [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [openplotter/openplotter-settings](https://github.com/openplotter/openplotter-settings) - Main OpenPlotter app
-- [openplotter/docs](https://github.com/openplotter/docs) - OpenPlotter project documentation
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [CivicActions/component_creator](https://github.com/CivicActions/component_creator) - A Python Flask app for creating OSCAL compliance components.
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
