@@ -113,7 +113,7 @@
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [NaturalDocs/NaturalDocs](https://github.com/NaturalDocs/NaturalDocs) - Natural Docs source code documentation system
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [GeekyEggo/GoveeController](https://github.com/GeekyEggo/GoveeController) - Govee controller for the Elgato Stream Deck.
 - [KSP-CKAN/CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
 - [Azure/azure-pixel-tracker](https://github.com/Azure/azure-pixel-tracker) - PREVIEW: Main repository for related customizable Azure Pixel Tracker projects and resources.
@@ -623,6 +623,8 @@
 
 ## Python 
 
+- [grugnog/frontend-co2](https://github.com/grugnog/frontend-co2) - Web front-end energy usage data collection
+- [audiconnect/audi_connect_ha](https://github.com/audiconnect/audi_connect_ha) - Adds an audi connect integration to home assistant
 - [kk7ds/chirp](https://github.com/kk7ds/chirp) - Official git repo for the CHIRP project
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [fecgov/openFEC](https://github.com/fecgov/openFEC) - The first RESTful API for the Federal Election Commission. We're aiming to make campaign finance more accessible for journalists, academics, developers, and other transparency seekers.
@@ -764,7 +766,7 @@
 - [maxsptz/emailpyspam](https://github.com/maxsptz/emailpyspam) - A python 3+ program to spam emails to a list of users repetitively
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
