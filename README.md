@@ -181,7 +181,7 @@
 
 ## Dockerfile 
 
-- [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost 5 Self hosted on Kubernetes | Hardened distroless rootless multiarch image. k3s, GKE, AKS, EKS, etc.
+- [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost on Kubernetes - Deploy a production grade, hardened Ghost CMS on Kubernetes (Cloud or self hosted)
 - [paulokinho/obico-octoprint](https://github.com/paulokinho/obico-octoprint) - Obico running inside Octoprint
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [RynoM/self-hosted-deployment](https://github.com/RynoM/self-hosted-deployment) - A deployment pipeline for docker compose stacks on a single host, running on Gitea Actions.
@@ -277,7 +277,6 @@
 - [project-open-data/project-open-data.github.io](https://github.com/project-open-data/project-open-data.github.io) - Open Data Policy — Managing Information as an Asset
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [GovTechSG/purple-a11y-desktop](https://github.com/GovTechSG/purple-a11y-desktop) - Purple A11y Desktop is a customisable, automated web accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with disabilities (PWDs
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
@@ -886,6 +885,7 @@
 ## Svelte 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime
