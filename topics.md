@@ -1813,7 +1813,7 @@
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [EqualifyEverything/handbook](https://github.com/EqualifyEverything/handbook) - Policies, Procedures, and Org Info
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [natcoso9955/unRAID-docker](https://github.com/natcoso9955/unRAID-docker) - 
 - [nemurici/python3-wappalyzer](https://github.com/nemurici/python3-wappalyzer) - python3-wappalyzer
 - [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
