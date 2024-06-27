@@ -277,6 +277,7 @@
 - [project-open-data/project-open-data.github.io](https://github.com/project-open-data/project-open-data.github.io) - Open Data Policy — Managing Information as an Asset
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [GovTechSG/purple-a11y-desktop](https://github.com/GovTechSG/purple-a11y-desktop) - Purple A11y Desktop is a customisable, automated web accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with disabilities (PWDs
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
@@ -623,6 +624,7 @@
 
 ## Python 
 
+- [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [grugnog/frontend-co2](https://github.com/grugnog/frontend-co2) - Web front-end energy usage data collection
 - [audiconnect/audi_connect_ha](https://github.com/audiconnect/audi_connect_ha) - Adds an audi connect integration to home assistant
 - [kk7ds/chirp](https://github.com/kk7ds/chirp) - Official git repo for the CHIRP project
@@ -809,7 +811,7 @@
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [lgarron/folderify](https://github.com/lgarron/folderify) - :file_folder: Generate pixel-perfect macOS folder icons in the native style.
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler written in Rust. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler. Maintained by @a11ywatch.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -850,7 +852,7 @@
 ## Shell 
 
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
-- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case mana
+- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [kandji-inc/support](https://github.com/kandji-inc/support) - Software provided by the Solutions Engineering and Support teams at Kandji, Inc.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -885,7 +887,6 @@
 ## Svelte 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime
