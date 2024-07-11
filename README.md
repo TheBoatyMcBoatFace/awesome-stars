@@ -180,7 +180,7 @@
 
 ## Dockerfile 
 
-- [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost on Kubernetes - Deploy a production grade, hardened Ghost CMS on Kubernetes (Cloud or self hosted)
+- [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost on Kubernetes by SREDevOps.org ⎈ Deploy a production grade, hardened Ghost CMS on Kubernetes k8s, k3s, GKE, AKS, EKS
 - [paulokinho/obico-octoprint](https://github.com/paulokinho/obico-octoprint) - Obico running inside Octoprint
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [RynoM/self-hosted-deployment](https://github.com/RynoM/self-hosted-deployment) - A deployment pipeline for docker compose stacks on a single host, running on Gitea Actions.
