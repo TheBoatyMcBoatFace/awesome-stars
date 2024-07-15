@@ -153,7 +153,6 @@
 - [alexbates/Tamari](https://github.com/alexbates/Tamari) - A fully-featured recipe manager web application built using Python and the Flask Framework.
 - [OpenSpace/OpenSpace-Docs](https://github.com/OpenSpace/OpenSpace-Docs) - 
 - [JaouherK/streamDeck-weatherPlugin](https://github.com/JaouherK/streamDeck-weatherPlugin) - Popular Stream Deck plugin for Weather reporting
-- [usds/playbook](https://github.com/usds/playbook) - The Digital Services Playbook
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [department-of-veterans-affairs/va-digital-service-handbook](https://github.com/department-of-veterans-affairs/va-digital-service-handbook) - Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
 - [TheBoatyMcBoatFace/ghostyboat](https://github.com/TheBoatyMcBoatFace/ghostyboat) - Ghost repo for BentleyHensel.com
@@ -837,6 +836,7 @@
 ## SCSS 
 
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+- [usds/playbook](https://github.com/usds/playbook) - The Digital Services Playbook
 - [airbytehq/glossary](https://github.com/airbytehq/glossary) - Data Glossary 🧠: An interactive digital garden for deeper data exploration. Learn through a graph and backlinks, enabling layered knowledge discovery.
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
