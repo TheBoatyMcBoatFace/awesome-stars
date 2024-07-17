@@ -619,6 +619,7 @@
 
 ## Python 
 
+- [HenselForCongress/sunbeam](https://github.com/HenselForCongress/sunbeam) - 
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [grugnog/frontend-co2](https://github.com/grugnog/frontend-co2) - Web front-end energy usage data collection
 - [audiconnect/audi_connect_ha](https://github.com/audiconnect/audi_connect_ha) - Adds an audi connect integration to home assistant
