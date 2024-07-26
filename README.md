@@ -336,6 +336,8 @@
 
 ## JavaScript 
 
+- [zaproxy/action-baseline](https://github.com/zaproxy/action-baseline) - A GitHub Action for running the ZAP Baseline scan
+- [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [xdgrulez/datamesh](https://github.com/xdgrulez/datamesh) - Data Mesh in Practice Open Source Book
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -620,6 +622,9 @@
 
 ## Python 
 
+- [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
+- [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
+- [github/ghas-jira-integration](https://github.com/github/ghas-jira-integration) - Synchronize GitHub Code Scanning alerts to Jira issues
 - [HenselForCongress/sunbeam](https://github.com/HenselForCongress/sunbeam) - 
 - [electricitymaps/electricitymaps-contrib](https://github.com/electricitymaps/electricitymaps-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
 - [grugnog/frontend-co2](https://github.com/grugnog/frontend-co2) - Web front-end energy usage data collection
@@ -907,6 +912,10 @@
 
 ## TypeScript 
 
+- [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
+- [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [reddit/devvit](https://github.com/reddit/devvit) - Reddit for Developers
@@ -928,7 +937,6 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description) - A GitHub action to update a Docker Hub repository description from README.md
 - [exogee-technology/graphweaver](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API
-- [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [GSA/site-scanning-engine](https://github.com/GSA/site-scanning-engine) - The repository for the rearchitected site-scanning project, specifically the scanning engine itself.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
@@ -993,7 +1001,7 @@
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [TheBoatyMcBoatFace/flame](https://github.com/TheBoatyMcBoatFace/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The hackable notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - Note taking for knowledge hackers
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
