@@ -220,7 +220,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -309,6 +309,7 @@
 
 ## automation 
 
+- [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) - GitHub Action to sync GitHub labels in the declarative way
 - [blacklanternsecurity/public-dns-servers](https://github.com/blacklanternsecurity/public-dns-servers) - A CI/CD-verified list of the internet's known-good public DNS servers (from public-dns.info) Updated weekly!
@@ -1346,7 +1347,7 @@
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [soulteary/llama-docker-playground](https://github.com/soulteary/llama-docker-playground) - Quick Start LLaMA models with multiple methods, and fine-tune 7B/65B with One-Click.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -1394,7 +1395,7 @@
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [Lenny4/DeepFaceLabClient](https://github.com/Lenny4/DeepFaceLabClient) - Just an app to use DeepFaceLab with a user interface.
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
@@ -1519,7 +1520,7 @@
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
@@ -1563,7 +1564,7 @@
 - [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
