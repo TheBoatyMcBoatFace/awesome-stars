@@ -702,7 +702,7 @@
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Boavizta/environmental-footprint-data](https://github.com/Boavizta/environmental-footprint-data) - 💾 Boavizta.org Data repository
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [soulteary/llama-docker-playground](https://github.com/soulteary/llama-docker-playground) - Quick Start LLaMA models with multiple methods, and fine-tune 7B/65B with One-Click.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
@@ -912,6 +912,7 @@
 
 ## TypeScript 
 
+- [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
