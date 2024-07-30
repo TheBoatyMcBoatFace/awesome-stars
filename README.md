@@ -699,7 +699,7 @@
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Boavizta/environmental-footprint-data](https://github.com/Boavizta/environmental-footprint-data) - 💾 Boavizta.org Data repository
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
