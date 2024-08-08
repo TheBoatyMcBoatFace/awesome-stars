@@ -486,6 +486,7 @@
 
 ## Others 
 
+- [CivicActions/compliance-docs](https://github.com/CivicActions/compliance-docs) - CivicActions Security Policies and Procedures
 - [CivicActions/open-practice](https://github.com/CivicActions/open-practice) - Our list of open practices.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows.
@@ -561,7 +562,6 @@
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [postman-states/home](https://github.com/postman-states/home) - This is the home repository for this organization.
 - [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software
 - [wilbertheinen/accessible-email-documentation](https://github.com/wilbertheinen/accessible-email-documentation) - A list of great articles about accessibility in email
 - [cubiclesoft/email_sms_mms_gateways](https://github.com/cubiclesoft/email_sms_mms_gateways) - A simple repo containing a list of known e-mail to SMS, MMS, and Rich Messaging carrier gateways in JSON format under a MIT or LGPL license.
