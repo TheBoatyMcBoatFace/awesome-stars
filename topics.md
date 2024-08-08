@@ -1666,6 +1666,7 @@
 
 ## others 
 
+- [CivicActions/compliance-docs](https://github.com/CivicActions/compliance-docs) - CivicActions Security Policies and Procedures
 - [openelections/openelections-sources-la](https://github.com/openelections/openelections-sources-la) - Original results files for Louisiana elections
 - [tommasongr/nova-copyright](https://github.com/tommasongr/nova-copyright) - Add copyright header to your files.
 - [unicode-org/cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
@@ -1987,7 +1988,6 @@
 - [postmanlabs/node-csv-parse](https://github.com/postmanlabs/node-csv-parse) - CSV parsing implementing the Node.js `stream.Transform` API
 - [postmanlabs/newman-dashboard](https://github.com/postmanlabs/newman-dashboard) - A WebUI companion for Newman to control, view and debug runs. 🚀✨
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-- [postman-states/home](https://github.com/postman-states/home) - This is the home repository for this organization.
 - [jasoncartwright/recruiterdomains](https://github.com/jasoncartwright/recruiterdomains) - List of domain names of known recruitment consultants
 - [marcelkooi/awesome-newsletter-tools](https://github.com/marcelkooi/awesome-newsletter-tools) - 😎  Awesome list of email newsletter tools, platforms, media, and software
 - [wilbertheinen/accessible-email-documentation](https://github.com/wilbertheinen/accessible-email-documentation) - A list of great articles about accessibility in email
