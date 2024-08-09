@@ -81,7 +81,6 @@
 ## C 
 
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [ThingPulse/esp32-spotify-remote](https://github.com/ThingPulse/esp32-spotify-remote) - 
 - [ThingPulse/esp8266-spotify-remote](https://github.com/ThingPulse/esp8266-spotify-remote) - Control your Spotify player from a ESP8266 with color touch display
@@ -120,6 +119,7 @@
 ## C++ 
 
 - [TheOpenSpaceProgram/osp-magnum](https://github.com/TheOpenSpaceProgram/osp-magnum) - A spaceship game
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -453,6 +453,7 @@
 
 ## Jupyter Notebook 
 
+- [ishijo/Taylor-Swift-Lyrics](https://github.com/ishijo/Taylor-Swift-Lyrics) - Database (.txt and .csv) of all Taylor Swift Song Lyrics upto April'23
 - [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -486,6 +487,7 @@
 
 ## Others 
 
+- [sagesolar/Corpus-of-Taylor-Swift](https://github.com/sagesolar/Corpus-of-Taylor-Swift) - This is a dataset consisting of all song lyric words found on all of Taylor Swift's studio albums (up to and including TTPD), as well as a selection of other songs written by her.
 - [CivicActions/compliance-docs](https://github.com/CivicActions/compliance-docs) - CivicActions Security Policies and Procedures
 - [CivicActions/open-practice](https://github.com/CivicActions/open-practice) - Our list of open practices.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
