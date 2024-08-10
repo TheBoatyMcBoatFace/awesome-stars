@@ -1832,7 +1832,7 @@
 - [gobijan/nova-copilot-lsp](https://github.com/gobijan/nova-copilot-lsp) - nova-copilot-lsp aims to provide integration with Github Copilot in Nova by Panic.
 - [IBMa/equal-access](https://github.com/IBMa/equal-access) - IBM Equal Access Accessibility Checker contains tools to automate accessibility checking from a browser or in a continuous development/build environment
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [vortexau/dnsvalidator](https://github.com/vortexau/dnsvalidator) - Maintains a list of IPv4 DNS servers by verifying them against baseline servers, and ensuring accurate responses.
 - [TheBoatyMcBoatFace/README-AI](https://github.com/TheBoatyMcBoatFace/README-AI) - 🚀 Automated tool for generating beautiful, informative, and well-structured README files. Powered by OpenAI GPT language models 💫
