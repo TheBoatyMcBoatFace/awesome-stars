@@ -721,7 +721,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [cycneuramus/signal-aichat](https://github.com/cycneuramus/signal-aichat) - An AI chatbot for Signal powered by Google Bard, Bing Chat, ChatGPT, HuggingChat, and llama.cpp
 - [allegro/ralph](https://github.com/allegro/ralph) - Ralph is the CMDB / Asset Management system for data center and back office hardware.
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nl
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [blacklanternsecurity/public-dns-servers](https://github.com/blacklanternsecurity/public-dns-servers) - A CI/CD-verified list of the internet's known-good public DNS servers (from public-dns.info) Updated weekly!
 - [vortexau/dnsvalidator](https://github.com/vortexau/dnsvalidator) - Maintains a list of IPv4 DNS servers by verifying them against baseline servers, and ensuring accurate responses.
