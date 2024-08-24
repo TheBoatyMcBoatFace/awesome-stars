@@ -1681,6 +1681,7 @@
 
 ## others 
 
+- [CSIRT-MU/edu-resources](https://github.com/CSIRT-MU/edu-resources) - An awesome list of cybersecurity educational resources
 - [sagesolar/Corpus-of-Taylor-Swift](https://github.com/sagesolar/Corpus-of-Taylor-Swift) - This is a dataset consisting of all song lyric words found on all of Taylor Swift's studio albums (up to and including TTPD), as well as a selection of other songs written by her.
 - [CivicActions/compliance-docs](https://github.com/CivicActions/compliance-docs) - CivicActions Security Policies and Procedures
 - [openelections/openelections-sources-la](https://github.com/openelections/openelections-sources-la) - Original results files for Louisiana elections
