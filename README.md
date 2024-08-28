@@ -195,7 +195,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Postgres everywhere — your data, in sync, wherever you need it.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync subsets of your Postgres data into local apps and services.
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
 
 ## Go 
@@ -919,6 +919,7 @@
 
 ## TypeScript 
 
+- [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
