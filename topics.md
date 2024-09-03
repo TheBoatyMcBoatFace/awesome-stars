@@ -1331,6 +1331,7 @@
 ## laravel 
 
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
+- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 
 ## learning 
 
@@ -1665,6 +1666,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
@@ -1962,7 +1964,6 @@
 - [TheBoatyMcBoatFace/ghostyboat](https://github.com/TheBoatyMcBoatFace/ghostyboat) - Ghost repo for BentleyHensel.com
 - [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
 - [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
-- [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [axiomhq/awesome-axiom](https://github.com/axiomhq/awesome-axiom) - A curated list of awesome Axiom Platform, libraries, open source repos, guides, blogs, Documentation and other resources.
 - [bareboat-necessities/rust-modules](https://github.com/bareboat-necessities/rust-modules) - Various modules in Rust
 - [solidnerd/docker-bookstack](https://github.com/solidnerd/docker-bookstack) - BookStack in a container
