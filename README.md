@@ -479,6 +479,7 @@
 
 ## Markdown 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ 
 
 ## Objective-C 
@@ -506,7 +507,6 @@
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative where you own what you type on your keyboard.
 - [SaraEye/SaraKIT-Schematic-and-BOM](https://github.com/SaraEye/SaraKIT-Schematic-and-BOM) - 
 - [mojicians/awesome-mojo](https://github.com/mojicians/awesome-mojo) - A curated list of awesome Mojo 🔥 frameworks, libraries, software and resources
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [Kapeli/Dash-Alfred-Workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) - Dash Alfred Workflow
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
@@ -956,7 +956,7 @@
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [edgar971/open-chat](https://github.com/edgar971/open-chat) - A self-hosted, offline, ChatGPT-like chatbot with different LLM support. 100% private, with no data leaving your device.
 - [jo-te/nova-explorer](https://github.com/jo-te/nova-explorer) - An extension to Panic's Nova editor currently providing an alternative file browser.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
