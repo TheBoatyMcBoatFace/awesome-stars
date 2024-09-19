@@ -287,7 +287,6 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [Green-Software-Foundation/sci](https://github.com/Green-Software-Foundation/sci) - A specification that describes how to calculate a carbon intensity for software applications.
-- [milvus-io/web-content](https://github.com/milvus-io/web-content) - Milvus web documents and contents
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [TheBoatyMcBoatFace/tabler](https://github.com/TheBoatyMcBoatFace/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
@@ -471,6 +470,7 @@
 ## MDX 
 
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
+- [milvus-io/web-content](https://github.com/milvus-io/web-content) - Milvus web documents and contents
 - [cypress-io/cypress-realworld-testing](https://github.com/cypress-io/cypress-realworld-testing) - Next.js project for learn.cypress.io
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -635,6 +635,7 @@
 
 ## Python 
 
+- [kandji-inc/kpkg](https://github.com/kandji-inc/kpkg) - Kandji Packages (kpkg):  Standalone tool for programmatic management of Kandji Custom Apps
 - [OWASP/Python-Honeypot](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [DinoTools/dionaea](https://github.com/DinoTools/dionaea) - Home of the dionaea honeypot
