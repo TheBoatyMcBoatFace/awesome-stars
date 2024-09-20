@@ -1969,7 +1969,7 @@
 - [oscal-club/awesome-oscal](https://github.com/oscal-club/awesome-oscal) - A list of tools, blog posts, and other resources that further the use and adoption of OSCAL standards.
 - [CivicActions/component_creator](https://github.com/CivicActions/component_creator) - A Python Flask app for creating OSCAL compliance components.
 - [CivicActions/oscal-component-definitions](https://github.com/CivicActions/oscal-component-definitions) - OSCAL reusable component definitions library
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [argoproj/argo-site](https://github.com/argoproj/argo-site) - 
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
