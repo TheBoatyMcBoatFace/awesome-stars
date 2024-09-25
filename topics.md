@@ -1896,7 +1896,7 @@
 - [TheBoatyMcBoatFace/awesome-chatgpt-api](https://github.com/TheBoatyMcBoatFace/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [TheBoatyMcBoatFace/tabler](https://github.com/TheBoatyMcBoatFace/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [CivicActions/cypress-tests](https://github.com/CivicActions/cypress-tests) - A repository to store Cypress test recipes created by CivicActions engineers
-- [mozilla-services/axe-selenium-python](https://github.com/mozilla-services/axe-selenium-python) - aXe Selenium Integration python package
+- [thibaudcolas/axe-selenium-python](https://github.com/thibaudcolas/axe-selenium-python) - aXe Selenium Integration python package
 - [supabase/cloudflare-access-grafana](https://github.com/supabase/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
