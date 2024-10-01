@@ -1023,7 +1023,7 @@
 - [maurodesouza/profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 - [TheBoatyMcBoatFace/flame](https://github.com/TheBoatyMcBoatFace/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge hacker's notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
