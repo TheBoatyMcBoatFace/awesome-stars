@@ -1725,6 +1725,7 @@
 
 ## others 
 
+- [unitedstates/congress](https://github.com/unitedstates/congress) - Public domain data collectors for the work of Congress, including legislation, amendments, and votes.
 - [HaveIBeenPwned/PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
 - [kandji-inc/kpkg](https://github.com/kandji-inc/kpkg) - Kandji Packages (kpkg):  Standalone tool for programmatic management of Kandji Custom Apps
 - [OpenSCAP/openscap](https://github.com/OpenSCAP/openscap) - NIST Certified SCAP 1.2 toolkit
@@ -1820,7 +1821,7 @@
 - [mozilla/fx-private-relay](https://github.com/mozilla/fx-private-relay) - Keep your email safe from hackers and trackers. Make an email alias with 1 click, and keep your address to yourself.
 - [Tblue/python-jproperties](https://github.com/Tblue/python-jproperties) - Java Property file parser and writer for Python
 - [PierreDurrr/rollarr](https://github.com/PierreDurrr/rollarr) - All credits goes to TheHumanRobot
-- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr
+- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
 - [jcostom/rollerblades](https://github.com/jcostom/rollerblades) - Plex Preroll Rotator
 - [ksmith211/Plex-Apple-Preroll-Trailers](https://github.com/ksmith211/Plex-Apple-Preroll-Trailers) - A set of python scripts for downloading trailers from Apple, randomly mixing them into one video file, and playing them before movies in Plex as a preroll trailer.
 - [giacy86/plex-preroll-trailers](https://github.com/giacy86/plex-preroll-trailers) - Simple and rough set of python script that download trailers for the upcoming/now playing movies in theathers and show it as a preroll video before watch movies in Plex.
