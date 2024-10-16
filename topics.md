@@ -734,6 +734,7 @@
 
 ## docker 
 
+- [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ofek/docker-volume-gcs](https://github.com/ofek/docker-volume-gcs) - Docker Volume Plugin for Google Cloud Storage
 - [tomaae/homeassistant-portainer](https://github.com/tomaae/homeassistant-portainer) - Portainer integration for Home Assistant
@@ -2774,6 +2775,7 @@
 
 ## windows 
 
+- [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
