@@ -340,6 +340,7 @@
 
 ## JavaScript 
 
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [SimonM0/ghost-static-site-generator](https://github.com/SimonM0/ghost-static-site-generator) - Generate a static site from ghost and deploy using a CI
 - [zaproxy/action-baseline](https://github.com/zaproxy/action-baseline) - A GitHub Action for running the ZAP Baseline scan
 - [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors
@@ -937,6 +938,7 @@
 
 ## TypeScript 
 
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action) - Load secrets from 1Password into your GitHub Actions jobs
 - [tgymnich/fork-sync](https://github.com/tgymnich/fork-sync) - 🔄 Github action to sync your forks
