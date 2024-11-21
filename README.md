@@ -203,6 +203,7 @@
 
 ## Go 
 
+- [carboniferio/carbonifer](https://github.com/carboniferio/carbonifer) - Control carbon emission of your cloud infrastructure - Carbon-aware cloud infra
 - [httpreserve/linkstat](https://github.com/httpreserve/linkstat) - CLI implementation of httpreserve that can test links and retrieve internet archive replacements
 - [karust/gogetcrawl](https://github.com/karust/gogetcrawl) - Extract web archive data using Wayback Machine and Common Crawl
 - [wabarc/playback](https://github.com/wabarc/playback) - Playback webpages from Wayback Machine
@@ -492,6 +493,7 @@
 
 ## Makefile 
 
+- [commoncrawl/ccf-eot-seeds-2024](https://github.com/commoncrawl/ccf-eot-seeds-2024) - Common Crawl's contribution of seeds to the End of Term Archive 2024
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
 ## Markdown 
@@ -510,13 +512,15 @@
 
 ## Others 
 
+- [GoogleCloudPlatform/region-carbon-info](https://github.com/GoogleCloudPlatform/region-carbon-info) - Carbon characteristics of Google Cloud regions
+- [end-of-term/eot2024](https://github.com/end-of-term/eot2024) - End of Term Web Archive 2024
 - [CSIRT-MU/edu-resources](https://github.com/CSIRT-MU/edu-resources) - An awesome list of cybersecurity educational resources
 - [sagesolar/Corpus-of-Taylor-Swift](https://github.com/sagesolar/Corpus-of-Taylor-Swift) - This is a dataset consisting of all song lyric words found on all of Taylor Swift's studio albums (up to and including TTPD), as well as a selection of other songs written by her.
 - [CivicActions/compliance-docs](https://github.com/CivicActions/compliance-docs) - CivicActions Security Policies and Procedures
 - [CivicActions/open-practice](https://github.com/CivicActions/open-practice) - Our list of open practices.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths) - GitHub special files and paths, such as README, LICENSE, .github, docs, dependabot, workflows.
-- [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
+- [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
 - [VoronDesign/Voron-Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) - 
 - [shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint](https://github.com/shridattdudhat/Raspberry-Pi-Compute-Module-4-Eagle-Footprint) - New Raspberry Pi Compute Module 4 Eagle Library and 3D Models
 - [Uptime-Lab/BladeRunner](https://github.com/Uptime-Lab/BladeRunner) - Enclosure for Compute Blades
@@ -650,6 +654,8 @@
 
 ## Python 
 
+- [carbonblack/carbon-black-cloud-sdk-python](https://github.com/carbonblack/carbon-black-cloud-sdk-python) - VMware Carbon Black Cloud Python SDK
+- [aws-samples/experimental-programmatic-access-ccft](https://github.com/aws-samples/experimental-programmatic-access-ccft) - Experimental Programmatic Access to the AWS Customer Carbon Footprint Tool data
 - [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
 - [recrm/ArchiveTools](https://github.com/recrm/ArchiveTools) - A collection of tools for archiving and analysing the internet.
 - [akamhy/waybackpy](https://github.com/akamhy/waybackpy) - Wayback Machine API interface & a command-line tool
@@ -849,6 +855,7 @@
 
 ## Rust 
 
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
