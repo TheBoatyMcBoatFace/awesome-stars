@@ -654,6 +654,8 @@
 
 ## Python 
 
+- [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
+- [kagisearch/fastfeedparser](https://github.com/kagisearch/fastfeedparser) - High performance RSS, Atom and RDF parser in Python.
 - [carbonblack/carbon-black-cloud-sdk-python](https://github.com/carbonblack/carbon-black-cloud-sdk-python) - VMware Carbon Black Cloud Python SDK
 - [aws-samples/experimental-programmatic-access-ccft](https://github.com/aws-samples/experimental-programmatic-access-ccft) - Experimental Programmatic Access to the AWS Customer Carbon Footprint Tool data
 - [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
@@ -855,6 +857,7 @@
 
 ## Rust 
 
+- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
