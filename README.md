@@ -860,7 +860,7 @@
 ## Rust 
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
