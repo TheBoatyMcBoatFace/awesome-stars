@@ -656,6 +656,7 @@
 
 ## Python 
 
+- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [kagisearch/fastfeedparser](https://github.com/kagisearch/fastfeedparser) - High performance RSS, Atom and RDF parser in Python.
 - [carbonblack/carbon-black-cloud-sdk-python](https://github.com/carbonblack/carbon-black-cloud-sdk-python) - VMware Carbon Black Cloud Python SDK
