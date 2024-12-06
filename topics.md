@@ -64,6 +64,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [emacs](#emacs)
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [english](#english)
@@ -205,6 +206,7 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -217,6 +219,7 @@
 
 ## ai 
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative where you own what you type on your keyboard.
@@ -504,6 +507,7 @@
 
 ## chatgpt 
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -857,6 +861,10 @@
 ## elixir 
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+
+## emacs 
+
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## embedded 
 
@@ -1429,6 +1437,7 @@
 
 ## llm 
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2576,6 +2585,7 @@
 
 ## self-hosted 
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -2824,6 +2834,10 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+
+## vpn 
+
+- [bastiandoetsch/mullvad-best-server](https://github.com/bastiandoetsch/mullvad-best-server) - Determines the Mullvad server with the lowest latency
 
 ## vue 
 
