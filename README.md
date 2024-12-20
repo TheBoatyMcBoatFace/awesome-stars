@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [irvinlim/apple-health-ingester](https://github.com/irvinlim/apple-health-ingester) - HTTP server to ingest and store Apple Health data from Health Auto Export to LocalFile, InfluxDB, and more
 - [PromptPal/PromptPal](https://github.com/PromptPal/PromptPal) - A Prompt Manager that focuses on On-Premise and developer experience.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [carboniferio/carbonifer](https://github.com/carboniferio/carbonifer) - Control carbon emission of your cloud infrastructure - Carbon-aware cloud infra
@@ -236,7 +237,7 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
@@ -515,6 +516,7 @@
 
 ## Others 
 
+- [Lybron/health-auto-export](https://github.com/Lybron/health-auto-export) - This repository provides documentation for the API Export feature of Health Auto Export.
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [GoogleCloudPlatform/region-carbon-info](https://github.com/GoogleCloudPlatform/region-carbon-info) - Carbon characteristics of Google Cloud regions
 - [end-of-term/eot2024](https://github.com/end-of-term/eot2024) - End of Term Web Archive 2024
@@ -657,6 +659,8 @@
 
 ## Python 
 
+- [mganjoo/apple-health-exporter](https://github.com/mganjoo/apple-health-exporter) - Python module to export Apple Health dump file to a data frame for analysis
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -988,6 +992,7 @@
 
 ## TypeScript 
 
+- [fdarveau/flame](https://github.com/fdarveau/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Gr1N/setup-poetry](https://github.com/Gr1N/setup-poetry) - Set up your GitHub Actions workflow with a specific version of Poetry
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
