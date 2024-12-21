@@ -659,6 +659,8 @@
 
 ## Python 
 
+- [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
+- [pe-st/garmin-connect-export](https://github.com/pe-st/garmin-connect-export) - Download a copy of your Garmin Connect data, including stats and GPX tracks.
 - [mganjoo/apple-health-exporter](https://github.com/mganjoo/apple-health-exporter) - Python module to export Apple Health dump file to a data frame for analysis
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -924,6 +926,7 @@
 
 ## Shell 
 
+- [Kandji-Community-SDKs/kandji-bash-sdk](https://github.com/Kandji-Community-SDKs/kandji-bash-sdk) - An unofficial Bash client for the Kandji API.
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
