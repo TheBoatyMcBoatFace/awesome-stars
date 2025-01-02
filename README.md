@@ -927,7 +927,6 @@
 
 ## Shell 
 
-- [Kandji-Community-SDKs/kandji-bash-sdk](https://github.com/Kandji-Community-SDKs/kandji-bash-sdk) - An unofficial Bash client for the Kandji API.
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
