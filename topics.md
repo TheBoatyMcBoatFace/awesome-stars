@@ -280,7 +280,6 @@
 
 ## api 
 
-- [Kandji-Community-SDKs/kandji-bash-sdk](https://github.com/Kandji-Community-SDKs/kandji-bash-sdk) - An unofficial Bash client for the Kandji API.
 - [Knuckles-Team/listmonk-api](https://github.com/Knuckles-Team/listmonk-api) - Listmonk Python API Wrapper
 - [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine) - 🍷 Find the most refined emojis
 - [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An Audnexus client proof of concept for Plex, providing rich author and audiobook data. Developed in Python, offering enhanced user experiences via Plex's legacy plugin agent system.
@@ -449,7 +448,6 @@
 
 ## bash 
 
-- [Kandji-Community-SDKs/kandji-bash-sdk](https://github.com/Kandji-Community-SDKs/kandji-bash-sdk) - An unofficial Bash client for the Kandji API.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
