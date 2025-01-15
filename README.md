@@ -543,7 +543,7 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [GSA/govt-urls](https://github.com/GSA/govt-urls) - Most government websites end in .gov or .mil, but many do not. This repo contains USA.gov's list of public government domains and URLs that don't end in .gov or .mil.
-- [thegreenwebfoundation/carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - A proposed convention for making it possible demonstrate that your infrastucture uses green power
+- [thegreenwebfoundation/carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Where we manage the syntax and specification for the carbon.txt project
 - [grafana/extreme-dashboard-makeover-breakouts](https://github.com/grafana/extreme-dashboard-makeover-breakouts) - 
 - [aisstream/aisstream](https://github.com/aisstream/aisstream) - 
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
