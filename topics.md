@@ -1809,6 +1809,7 @@
 
 ## others 
 
+- [olipo186/Git-Auto-Deploy](https://github.com/olipo186/Git-Auto-Deploy) - Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or webhooks using this small HTTP server written in Python. Continuous deployment in it's most simple form.
 - [pe-st/garmin-connect-export](https://github.com/pe-st/garmin-connect-export) - Download a copy of your Garmin Connect data, including stats and GPX tracks.
 - [irvinlim/apple-health-ingester](https://github.com/irvinlim/apple-health-ingester) - HTTP server to ingest and store Apple Health data from Health Auto Export to LocalFile, InfluxDB, and more
 - [fdarveau/flame](https://github.com/fdarveau/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
