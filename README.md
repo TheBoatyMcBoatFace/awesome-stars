@@ -1054,7 +1054,7 @@
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [EndBug/label-sync](https://github.com/EndBug/label-sync) - :octocat: An action that allows you to sync labels from a repository or a config file
 - [actions-js/profile-readme](https://github.com/actions-js/profile-readme) - 🗣 Display profile activity and other cool widgets in your profile README.md
-- [DrakeAxelrod/json-resume-service](https://github.com/DrakeAxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
+- [drakeaxelrod/json-resume-service](https://github.com/drakeaxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
 - [Siteimprove/alfa](https://github.com/Siteimprove/alfa) - :wheelchair: Suite of open and standards-based tools for performing reliable accessibility conformance testing at scale
 - [cloud-carbon-footprint/cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
 - [xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1) - Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.
