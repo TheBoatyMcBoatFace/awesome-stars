@@ -357,6 +357,7 @@
 
 ## JavaScript 
 
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [SimonMo88/ghost-static-site-generator](https://github.com/SimonMo88/ghost-static-site-generator) - Generate a static site from ghost and deploy using a CI
 - [zaproxy/action-baseline](https://github.com/zaproxy/action-baseline) - A GitHub Action for running the ZAP Baseline scan
