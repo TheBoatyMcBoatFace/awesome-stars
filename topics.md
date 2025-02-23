@@ -1598,6 +1598,7 @@
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -1820,6 +1821,10 @@
 
 ## others 
 
+- [saitohirga/WSJT-X](https://github.com/saitohirga/WSJT-X) - This a mirror of WSJT-X and will be updated every 6 hours. PR will be ignored, head to the SF link. Repo will be updated at 06:00:00 UTC 12:00:00 UTC 18:00:00 UTC 00:00:00 UTC Now fixed.
+- [w1hkj/fldigi](https://github.com/w1hkj/fldigi) - Amateur Radio digital modem application [SF mirror]
+- [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
+- [ok2cqr/cqrlog](https://github.com/ok2cqr/cqrlog) - Linux logging program for amateur radio operators
 - [harvestingmoon/OBrainRot](https://github.com/harvestingmoon/OBrainRot) - Open Source Version Of Generating BrainRot Videos from reddit url
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
