@@ -1236,7 +1236,7 @@
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [spatie/browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
-- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [reacherhq/backend](https://github.com/reacherhq/backend) - ⚙️ REST backend for Reacher - Open-Source Email Verification API.
 - [alleyinteractive/apple-news](https://github.com/alleyinteractive/apple-news) - The Publish to Apple News plugin enables your WordPress blog content to be published to your Apple News channel.
@@ -1320,6 +1320,7 @@
 
 ## javascript 
 
+- [EasyDynamics/oscal-react-library](https://github.com/EasyDynamics/oscal-react-library) - A library of React components and an example user interface application that provides a direct UI into NIST's Open Security Controls Assessment Language (OSCAL) data in JSON format.
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
@@ -1486,7 +1487,7 @@
 
 ## login 
 
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) system with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restricti
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework r
 
 ## low-code 
 
@@ -1821,6 +1822,7 @@
 
 ## others 
 
+- [risk-redux/control_freak](https://github.com/risk-redux/control_freak) - NIST SP 800-53, Security and Privacy Controls for Federal Information Systems and Organizations
 - [saitohirga/WSJT-X](https://github.com/saitohirga/WSJT-X) - This a mirror of WSJT-X and will be updated every 6 hours. PR will be ignored, head to the SF link. Repo will be updated at 06:00:00 UTC 12:00:00 UTC 18:00:00 UTC 00:00:00 UTC Now fixed.
 - [w1hkj/fldigi](https://github.com/w1hkj/fldigi) - Amateur Radio digital modem application [SF mirror]
 - [Hamlib/Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
@@ -2469,6 +2471,7 @@
 
 ## react 
 
+- [EasyDynamics/oscal-react-library](https://github.com/EasyDynamics/oscal-react-library) - A library of React components and an example user interface application that provides a direct UI into NIST's Open Security Controls Assessment Language (OSCAL) data in JSON format.
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
@@ -2895,7 +2898,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) system with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restricti
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework r
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
