@@ -198,7 +198,7 @@
 ## Elixir 
 
 - [GSA/Challenge_gov](https://github.com/GSA/Challenge_gov) - 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 - [pentacent/keila](https://github.com/pentacent/keila) - Open Source Newsletter Tool.
 
 ## Go 
