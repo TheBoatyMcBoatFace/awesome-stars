@@ -307,7 +307,6 @@
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [github/government.github.com](https://github.com/github/government.github.com) - Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [department-of-veterans-affairs/va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) - Public resources for building on and in support of VA.gov. Visit complete Knowledge Hub:
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [sysengineer13/ServiceNever](https://github.com/sysengineer13/ServiceNever) - ServiceNever is a help desk ticketing system. Service No-, I mean Never, is just as useful as a SharePoint list.  Designed by IT for IT.
@@ -429,6 +428,7 @@
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
 - [woganmay/domo-html-quickstart](https://github.com/woganmay/domo-html-quickstart) - An HTML/JS template that gives you a good starting point for HTML-based Domo Apps
 - [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [elgatosf/sample-customlayout](https://github.com/elgatosf/sample-customlayout) - Stream Deck SDK sample to show how to create and use custom layouts on SD+ panels
 - [elgatosf/sample-layouts](https://github.com/elgatosf/sample-layouts) - Stream Deck SDK sample to show how to create and use layouts on SD+ panels
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
