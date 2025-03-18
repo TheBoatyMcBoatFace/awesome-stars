@@ -612,7 +612,7 @@
 
 ## config 
 
-- [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
+- [drduh/config](https://github.com/drduh/config) - Various configuration files and scripts
 
 ## continuous-integration 
 
