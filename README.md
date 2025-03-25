@@ -1060,7 +1060,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [GSA/site-scanning-engine](https://github.com/GSA/site-scanning-engine) - The repository for the rearchitected site-scanning project, specifically the scanning engine itself.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Data Platform (CDP)
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
