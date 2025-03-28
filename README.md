@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [saitohirga/WSJT-X](https://github.com/saitohirga/WSJT-X) - This a mirror of WSJT-X and will be updated every 6 hours. PR will be ignored, head to the SF link. Repo will be updated at 06:00:00 UTC 12:00:00 UTC 18:00:00 UTC 00:00:00 UTC Now fixed.
 - [w1hkj/fldigi](https://github.com/w1hkj/fldigi) - Amateur Radio digital modem application [SF mirror]
 - [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
