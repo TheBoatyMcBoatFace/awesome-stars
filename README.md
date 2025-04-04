@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [LArkema/dctransistor-project](https://github.com/LArkema/dctransistor-project) - DC metro map and train status indicator, but on PCB (aka Washington Metro Area Transistor Authority)
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [saitohirga/WSJT-X](https://github.com/saitohirga/WSJT-X) - This a mirror of WSJT-X and will be updated every 6 hours. PR will be ignored, head to the SF link. Repo will be updated at 06:00:00 UTC 12:00:00 UTC 18:00:00 UTC 00:00:00 UTC Now fixed.
 - [w1hkj/fldigi](https://github.com/w1hkj/fldigi) - Amateur Radio digital modem application [SF mirror]
@@ -369,6 +370,7 @@
 
 ## JavaScript 
 
+- [nathreed/WMATAMap](https://github.com/nathreed/WMATAMap) - Live map of trains on the Washington Metro.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [SimonMo88/ghost-static-site-generator](https://github.com/SimonMo88/ghost-static-site-generator) - Generate a static site from ghost and deploy using a CI
@@ -530,6 +532,7 @@
 
 ## Others 
 
+- [srepetsk/wmata_atc_circuits](https://github.com/srepetsk/wmata_atc_circuits) - WMATA ATC Track Circuit Information
 - [CivicActions/prompts](https://github.com/CivicActions/prompts) - CivicActions Generative AI bot prompts and configuration
 - [Lybron/health-auto-export](https://github.com/Lybron/health-auto-export) - This repository provides documentation for the API Export feature of Health Auto Export.
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
@@ -679,6 +682,8 @@
 
 ## Python 
 
+- [metro-sign/dc-metro](https://github.com/metro-sign/dc-metro) - This is the home for the software that can turn a 64x32 RGB LED matrix into a WMATA Metro sign.
+- [justgrimes/WMATA-SmarTrip-Scraper](https://github.com/justgrimes/WMATA-SmarTrip-Scraper) - WMATA SmarTrip Usage Scrapper
 - [grugnog/GitHub-Backup](https://github.com/grugnog/GitHub-Backup) - Backup all the repositories of a github user or organization automatically.
 - [harvestingmoon/OBrainRot](https://github.com/harvestingmoon/OBrainRot) - Open Source Version Of Generating BrainRot Videos from reddit url
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
