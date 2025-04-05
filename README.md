@@ -438,7 +438,6 @@
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [DavidWells/advanced-markdown](https://github.com/DavidWells/advanced-markdown) - Learn about advanced markdown techniques
-- [woganmay/domo-html-quickstart](https://github.com/woganmay/domo-html-quickstart) - An HTML/JS template that gives you a good starting point for HTML-based Domo Apps
 - [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [elgatosf/sample-customlayout](https://github.com/elgatosf/sample-customlayout) - Stream Deck SDK sample to show how to create and use custom layouts on SD+ panels
@@ -1130,7 +1129,7 @@
 - [TheBoatyMcBoatFace/flame](https://github.com/TheBoatyMcBoatFace/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [GeekyEggo/GoveeController](https://github.com/GeekyEggo/GoveeController) - Govee controller for the Elgato Stream Deck.
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [sct/overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
