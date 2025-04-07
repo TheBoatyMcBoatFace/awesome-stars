@@ -1502,6 +1502,7 @@
 ## lua 
 
 - [RayPS/obs-spotify-mac](https://github.com/RayPS/obs-spotify-mac) - An OBS script to display Spotify track info on macOS
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 
 ## mac 
 
@@ -1573,7 +1574,7 @@
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ 
 - [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [minoic/markdown-auto-catalog](https://github.com/minoic/markdown-auto-catalog) - GitHub action automatically update folder-based table of contents (TOC) in documents.
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
@@ -1670,7 +1671,7 @@
 
 ## nextjs 
 
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -1830,6 +1831,11 @@
 
 ## others 
 
+- [srepetsk/wmata_atc_circuits](https://github.com/srepetsk/wmata_atc_circuits) - WMATA ATC Track Circuit Information
+- [LArkema/dctransistor-project](https://github.com/LArkema/dctransistor-project) - DC metro map and train status indicator, but on PCB (aka Washington Metro Area Transistor Authority)
+- [metro-sign/dc-metro](https://github.com/metro-sign/dc-metro) - This is the home for the software that can turn a 64x32 RGB LED matrix into a WMATA Metro sign.
+- [justgrimes/WMATA-SmarTrip-Scraper](https://github.com/justgrimes/WMATA-SmarTrip-Scraper) - WMATA SmarTrip Usage Scrapper
+- [nathreed/WMATAMap](https://github.com/nathreed/WMATAMap) - Live map of trains on the Washington Metro.
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [grugnog/GitHub-Backup](https://github.com/grugnog/GitHub-Backup) - Backup all the repositories of a github user or organization automatically.
 - [risk-redux/control_freak](https://github.com/risk-redux/control_freak) - NIST SP 800-53, Security and Privacy Controls for Federal Information Systems and Organizations
@@ -2137,7 +2143,6 @@
 - [CivicActions/ssp-toolkit](https://github.com/CivicActions/ssp-toolkit) - Automate the creation of a System Security Plan (SSP)
 - [department-of-veterans-affairs/acronyms](https://github.com/department-of-veterans-affairs/acronyms) - A list of VA acronyms
 - [department-of-veterans-affairs/va-digital-service-handbook](https://github.com/department-of-veterans-affairs/va-digital-service-handbook) - Empowering VA teams to design and build great digital services on the Veteran-facing Services Platform --- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/
-- [woganmay/domo-html-quickstart](https://github.com/woganmay/domo-html-quickstart) - An HTML/JS template that gives you a good starting point for HTML-based Domo Apps
 - [TheBoatyMcBoatFace/ghostyboat-depricate](https://github.com/TheBoatyMcBoatFace/ghostyboat-depricate) - Ghost repo for BentleyHensel.com
 - [TryGhost/action-deploy-theme](https://github.com/TryGhost/action-deploy-theme) - :octocat: Deploy your Ghost theme with Github Actions
 - [docker-library/ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
@@ -2517,7 +2522,7 @@
 
 ## react-native 
 
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -2661,7 +2666,7 @@
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost on Kubernetes by SREDevOps.org - Deploy Ghost v5 on Kubernetes (k8s, k3s, etc) with our hardened distroless non root custom image.
