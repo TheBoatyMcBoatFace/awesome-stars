@@ -2194,7 +2194,7 @@
 - [Hextris/hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris!
 - [whatdaybob/sonarr_youtubedl](https://github.com/whatdaybob/sonarr_youtubedl) - A Sonarr companion script to allow the automatic downloading of web series normally not available for Sonarr to search for. Using Youtube-DL it allows you to download your webseries from the list of s
 - [Data4Democracy/zip-code-to-county](https://github.com/Data4Democracy/zip-code-to-county) - The code that generates the zipcode to look up csv's based on government data.  Dataset can be found here https://data.world/niccolley/us-zipcode-to-county-state
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker) - :mailbox: Cross-language temporary (disposable/throwaway) email detection library. Covers 55 734+ fake email providers.
 - [postmanlabs/node-csv-parse](https://github.com/postmanlabs/node-csv-parse) - CSV parsing implementing the Node.js `stream.Transform` API
 - [postmanlabs/newman-dashboard](https://github.com/postmanlabs/newman-dashboard) - A WebUI companion for Newman to control, view and debug runs. 🚀✨
