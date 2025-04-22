@@ -623,7 +623,7 @@
 ## cpp 
 
 - [TheOpenSpaceProgram/osp-magnum](https://github.com/TheOpenSpaceProgram/osp-magnum) - A spaceship game
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [feelfreelinux/cspot](https://github.com/feelfreelinux/cspot) - A Spotify Connect player targeting, but not limited to embedded devices (ESP32).
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
@@ -976,6 +976,7 @@
 
 ## git 
 
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
@@ -1327,7 +1328,7 @@
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [RonLek/wordcloud-api](https://github.com/RonLek/wordcloud-api) - Send text. Receive wordclouds!
 - [hermanho/MMM-GooglePhotos](https://github.com/hermanho/MMM-GooglePhotos) - Display your photos on MagicMirror from Google Photos.
@@ -1418,7 +1419,7 @@
 ## language 
 
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ## languages 
@@ -1678,7 +1679,7 @@
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
@@ -1778,7 +1779,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Data Platform (CDP)
 - [spotify/spotify.github.io](https://github.com/spotify/spotify.github.io) - Showcase site for hand-picked open-source projects by Spotify
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -2494,7 +2495,7 @@
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
@@ -2535,7 +2536,7 @@
 ## reactjs 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
@@ -2595,7 +2596,7 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [TheBoatyMcBoatFace/good-pdc](https://github.com/TheBoatyMcBoatFace/good-pdc) - It makes sure that the archive files on @CMSgov's Provider Data Catalog are actually working. Not an official government codebase.
 - [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -2840,7 +2841,7 @@
 
 ## tailwindcss 
 
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
@@ -2901,7 +2902,7 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgre
