@@ -268,7 +268,7 @@
 
 ## android 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [aegis-icons/aegis-icons](https://github.com/aegis-icons/aegis-icons) - Unofficial 2FA entry icons for open source Android authenticator Aegis.
@@ -558,7 +558,6 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [httpreserve/linkstat](https://github.com/httpreserve/linkstat) - CLI implementation of httpreserve that can test links and retrieve internet archive replacements
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
-- [py-pdf/pdfly](https://github.com/py-pdf/pdfly) - CLI tool to extract (meta)data from PDF and manipulate PDF files
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -921,7 +920,7 @@
 
 ## flutter 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1068,7 +1067,7 @@
 
 - [karust/gogetcrawl](https://github.com/karust/gogetcrawl) - Extract web archive data using Wayback Machine and Common Crawl
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ctreminiom/go-atlassian](https://github.com/ctreminiom/go-atlassian) - ✨ Golang Client Library for Atlassian Cloud.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1139,7 +1138,6 @@
 
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
-- [py-pdf/pdfly](https://github.com/py-pdf/pdfly) - CLI tool to extract (meta)data from PDF and manipulate PDF files
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization.
@@ -1289,7 +1287,7 @@
 ## ios 
 
 - [Lybron/health-auto-export](https://github.com/Lybron/health-auto-export) - This repository provides documentation for the API Export feature of Health Auto Export.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [rootstrap/ios-base](https://github.com/rootstrap/ios-base) - Boilerplate for new iOS projects using Swift 5. Provides a handful of functionalities.
@@ -1871,6 +1869,7 @@
 - [ukwa/webarchive-discovery](https://github.com/ukwa/webarchive-discovery) - WARC and ARC indexing and discovery tools.
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
+- [py-pdf/pdfly](https://github.com/py-pdf/pdfly) - CLI tool to extract (meta)data from PDF and manipulate PDF files
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
@@ -2305,7 +2304,7 @@
 ## privacy 
 
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative where you own what you type on your keyboard.
 - [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
@@ -2352,7 +2351,6 @@
 - [ArchiveTeam/ArchiveBot](https://github.com/ArchiveTeam/ArchiveBot) - ArchiveBot, an IRC bot for archiving websites
 - [kagisearch/fastfeedparser](https://github.com/kagisearch/fastfeedparser) - High performance RSS, Atom and RDF parser in Python.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
-- [py-pdf/pdfly](https://github.com/py-pdf/pdfly) - CLI tool to extract (meta)data from PDF and manipulate PDF files
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -2864,7 +2862,6 @@
 ## terminal 
 
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-- [py-pdf/pdfly](https://github.com/py-pdf/pdfly) - CLI tool to extract (meta)data from PDF and manipulate PDF files
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -2901,7 +2898,7 @@
 ## typescript 
 
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
