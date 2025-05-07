@@ -1833,6 +1833,7 @@
 
 ## others 
 
+- [openprivacy/music-library](https://github.com/openprivacy/music-library) - Scripts for handling a large flac-based music library
 - [foxox/nzconfigtools](https://github.com/foxox/nzconfigtools) - Config editing tools for the Nikon Z system.
 - [bradleygay/wellpads](https://github.com/bradleygay/wellpads) - Codebase for Scientific Reports paper entitled, "Frozen no more: Permafrost impacts of oil and gas withdrawal above the Arctic Circle"
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
