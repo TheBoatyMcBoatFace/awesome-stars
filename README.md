@@ -682,6 +682,7 @@
 
 ## Python 
 
+- [openprivacy/music-library](https://github.com/openprivacy/music-library) - Scripts for handling a large flac-based music library
 - [foxox/nzconfigtools](https://github.com/foxox/nzconfigtools) - Config editing tools for the Nikon Z system.
 - [metro-sign/dc-metro](https://github.com/metro-sign/dc-metro) - This is the home for the software that can turn a 64x32 RGB LED matrix into a WMATA Metro sign.
 - [justgrimes/WMATA-SmarTrip-Scraper](https://github.com/justgrimes/WMATA-SmarTrip-Scraper) - WMATA SmarTrip Usage Scrapper
