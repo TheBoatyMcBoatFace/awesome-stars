@@ -216,6 +216,7 @@
 
 ## Go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [d-Rickyy-b/certstream-server-go](https://github.com/d-Rickyy-b/certstream-server-go) - This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket
 - [irvinlim/apple-health-ingester](https://github.com/irvinlim/apple-health-ingester) - HTTP server to ingest and store Apple Health data from Health Auto Export to LocalFile, InfluxDB, and more
 - [PromptPal/PromptPal](https://github.com/PromptPal/PromptPal) - A Prompt Manager that focuses on On-Premise and developer experience.
@@ -533,6 +534,8 @@
 
 ## Others 
 
+- [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
+- [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 Yet another collection of wordlists
 - [srepetsk/wmata_atc_circuits](https://github.com/srepetsk/wmata_atc_circuits) - WMATA ATC Track Circuit Information
 - [CivicActions/prompts](https://github.com/CivicActions/prompts) - CivicActions Generative AI bot prompts and configuration
 - [Lybron/health-auto-export](https://github.com/Lybron/health-auto-export) - This repository provides documentation for the API Export feature of Health Auto Export.
@@ -683,6 +686,8 @@
 
 ## Python 
 
+- [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [openprivacy/music-library](https://github.com/openprivacy/music-library) - Scripts for handling a large flac-based music library
 - [foxox/nzconfigtools](https://github.com/foxox/nzconfigtools) - Config editing tools for the Nikon Z system.
 - [metro-sign/dc-metro](https://github.com/metro-sign/dc-metro) - This is the home for the software that can turn a 64x32 RGB LED matrix into a WMATA Metro sign.
