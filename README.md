@@ -166,6 +166,7 @@
 
 ## CSS 
 
+- [zeel01/upsy-sd-plugin](https://github.com/zeel01/upsy-sd-plugin) - 
 - [OpenSpace/OpenSpace-Docs](https://github.com/OpenSpace/OpenSpace-Docs) - 
 - [JaouherK/streamDeck-weatherPlugin](https://github.com/JaouherK/streamDeck-weatherPlugin) - Popular Stream Deck plugin for Weather reporting
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
@@ -314,6 +315,7 @@
 - [GovTechSG/oobee-desktop](https://github.com/GovTechSG/oobee-desktop) - Oobee Desktop (formerly Purple A11y) is a customisable, automated web accessibility testing tool that allows software development teams to find and fix accessibility problems to improve persons with d
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
+- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [spotify/spotify.github.io](https://github.com/spotify/spotify.github.io) - Showcase site for hand-picked open-source projects by Spotify
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -845,7 +847,7 @@
 - [natcoso9955/unRAID-docker](https://github.com/natcoso9955/unRAID-docker) - 
 - [nemurici/python3-wappalyzer](https://github.com/nemurici/python3-wappalyzer) - python3-wappalyzer
 - [AndrewHolmes060/Plex-Preroll-Builder](https://github.com/AndrewHolmes060/Plex-Preroll-Builder) - just a simple python script to build a recently added preroll for your plex server
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [oscal-compass/compliance-trestle](https://github.com/oscal-compass/compliance-trestle) - An opinionated tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard.
@@ -1181,7 +1183,6 @@
 ## Vue 
 
 - [balena-io-experimental/starter-interface](https://github.com/balena-io-experimental/starter-interface) - A device interface for using Balena devices. It can be used to interact with your device, or as a starter project to create your own interface.
-- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [github/globalmaintainersummit.github.com](https://github.com/github/globalmaintainersummit.github.com) - Website for upcoming Global Source Maintainer Summit · June 8-9 2021.
