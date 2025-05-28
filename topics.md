@@ -1844,6 +1844,7 @@
 
 ## others 
 
+- [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
 - [zeel01/upsy-sd-plugin](https://github.com/zeel01/upsy-sd-plugin) - 
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 - [HTTPArchive/wappalyzer](https://github.com/HTTPArchive/wappalyzer) - HTTP Archive fork of Wappalyzer
