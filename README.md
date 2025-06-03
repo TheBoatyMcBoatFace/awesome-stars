@@ -692,6 +692,7 @@
 
 ## Python 
 
+- [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A Web Frontend for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) - This project aims to maintain Wappalyzer technologies
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
