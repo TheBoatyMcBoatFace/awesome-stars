@@ -538,6 +538,7 @@
 
 ## Objective-C++ 
 
+- [northpolesec/santa](https://github.com/northpolesec/santa) - A binary and file access authorization system for macOS.
 - [facebookarchive/pop](https://github.com/facebookarchive/pop) - An extensible iOS and OS X animation library, useful for physics-based interactions.
 
 ## Open Policy Agent 
