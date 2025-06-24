@@ -1853,6 +1853,8 @@
 
 ## others 
 
+- [greatscottgadgets/facedancer](https://github.com/greatscottgadgets/facedancer) - Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET
+- [CivicActions/pyction](https://github.com/CivicActions/pyction) - A few python images to make life easier when building stuff
 - [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
 - [zeel01/upsy-sd-plugin](https://github.com/zeel01/upsy-sd-plugin) - 
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
