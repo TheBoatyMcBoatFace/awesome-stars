@@ -1064,7 +1064,7 @@
 - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - A free open source IT asset / Equipment / management and scheduling system.
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [EasyDynamics/oscal-react-library](https://github.com/EasyDynamics/oscal-react-library) - A library of React components and an example user interface application that provides a direct UI into NIST's Open Security Controls Assessment Language (OSCAL) data in JSON format.
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 - [fdarveau/flame](https://github.com/fdarveau/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Gr1N/setup-poetry](https://github.com/Gr1N/setup-poetry) - Set up your GitHub Actions workflow with a specific version of Poetry
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
