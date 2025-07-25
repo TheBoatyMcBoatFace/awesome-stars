@@ -358,7 +358,7 @@
 
 ## Java 
 
-- [ukwa/webarchive-discovery](https://github.com/ukwa/webarchive-discovery) - WARC and ARC indexing and discovery tools.
+- [ukwa/webarchive-discovery](https://github.com/ukwa/webarchive-discovery) - Please note that the warc-indexer tool & code is now supported by NetArchiveSuite. The 'warc-indexer' directory and code that exists in this repo is now only for reference. For support and issues of '
 - [unicode-org/cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 - [alfio-event/alf.io](https://github.com/alfio-event/alf.io) - alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups
 - [GIScience/openrouteservice](https://github.com/GIScience/openrouteservice) - 🌍 The open source route planner api with plenty of features.
