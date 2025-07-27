@@ -96,7 +96,6 @@
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-- [ThingPulse/esp32-spotify-remote](https://github.com/ThingPulse/esp32-spotify-remote) - 
 - [ThingPulse/esp8266-spotify-remote](https://github.com/ThingPulse/esp8266-spotify-remote) - Control your Spotify player from a ESP8266 with color touch display
 - [hydradatabase/columnar](https://github.com/hydradatabase/columnar) - Postgres-native columnar storage extension
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
@@ -145,6 +144,7 @@
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [feelfreelinux/cspot](https://github.com/feelfreelinux/cspot) - A Spotify Connect player targeting, but not limited to embedded devices (ESP32).
 - [FalconChristmas/fpp](https://github.com/FalconChristmas/fpp) - Falcon Player
+- [ThingPulse/esp32-spotify-remote](https://github.com/ThingPulse/esp32-spotify-remote) - 
 - [ThingPulse/esp8266-weather-station](https://github.com/ThingPulse/esp8266-weather-station) - ESP8266 Weather Station library supporting OpenWeatherMap, Aeris and other sources
 - [OpenSpace/OpenSpace](https://github.com/OpenSpace/OpenSpace) - This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at 
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
