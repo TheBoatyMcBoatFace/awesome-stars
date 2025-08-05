@@ -912,7 +912,7 @@
 - [risk-redux/control_freak](https://github.com/risk-redux/control_freak) - NIST SP 800-53, Security and Privacy Controls for Federal Information Systems and Organizations
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [petere/homebrew-postgresql](https://github.com/petere/homebrew-postgresql) - 🐘 PostgreSQL formulae for the Homebrew package manager
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [18F/identity-idp](https://github.com/18F/identity-idp) - Login.gov Core App: Identity Provider (IdP)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
