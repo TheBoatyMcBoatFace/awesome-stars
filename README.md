@@ -699,6 +699,7 @@
 
 ## Python 
 
+- [mxc2/immich-tiktok-remover](https://github.com/mxc2/immich-tiktok-remover) - Project focused on removing or archiving TikTok videos in your self hosted Immich.
 - [greatscottgadgets/facedancer](https://github.com/greatscottgadgets/facedancer) - Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET
 - [arabcoders/ytptube](https://github.com/arabcoders/ytptube) - A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) - This project aims to maintain Wappalyzer technologies
