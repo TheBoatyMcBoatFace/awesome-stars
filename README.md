@@ -118,6 +118,7 @@
 
 ## C# # 
 
+- [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 - [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
 - [HaveIBeenPwned/PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
@@ -221,6 +222,7 @@
 
 ## Go 
 
+- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Highly configurable slideshows for displaying Immich assets on browsers and devices
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [KonradIT/mmt](https://github.com/KonradIT/mmt) - Media Management Tool - make importing videos/photos from GoPro and other action cameras/drones a little bit more bearable.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
