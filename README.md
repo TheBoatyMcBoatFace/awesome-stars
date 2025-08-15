@@ -227,6 +227,7 @@
 
 ## Go 
 
+- [chyroc/icloudgo](https://github.com/chyroc/icloudgo) - Access Apple iCloud via go, go port of pyicloud
 - [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Highly configurable slideshows for displaying Immich assets on browsers and devices
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [KonradIT/mmt](https://github.com/KonradIT/mmt) - Media Management Tool - make importing videos/photos from GoPro and other action cameras/drones a little bit more bearable.
@@ -390,6 +391,7 @@
 
 ## JavaScript 
 
+- [besya/nova-copilot](https://github.com/besya/nova-copilot) - Github Copilot for Nova
 - [HTTPArchive/wappalyzer](https://github.com/HTTPArchive/wappalyzer) - HTTP Archive fork of Wappalyzer
 - [nathreed/WMATAMap](https://github.com/nathreed/WMATAMap) - Live map of trains on the Washington Metro.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -706,6 +708,7 @@
 
 ## Python 
 
+- [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [mxc2/immich-tiktok-remover](https://github.com/mxc2/immich-tiktok-remover) - Project focused on removing or archiving TikTok videos in your self hosted Immich.
 - [greatscottgadgets/facedancer](https://github.com/greatscottgadgets/facedancer) - Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET
@@ -899,7 +902,7 @@
 - [maxsptz/emailpyspam](https://github.com/maxsptz/emailpyspam) - A python 3+ program to spam emails to a list of users repetitively
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine that can answer natural language questions over large scale structured and unstructured data.
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
@@ -940,6 +943,7 @@
 
 ## Rust 
 
+- [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
