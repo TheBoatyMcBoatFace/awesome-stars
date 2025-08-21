@@ -730,7 +730,7 @@
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
@@ -783,7 +783,7 @@
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
@@ -1616,7 +1616,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 17+ clouds, or on-prem).
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [Lenny4/DeepFaceLabClient](https://github.com/Lenny4/DeepFaceLabClient) - Just an app to use DeepFaceLab with a user interface.
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
