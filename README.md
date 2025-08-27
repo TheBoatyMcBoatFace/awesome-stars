@@ -663,6 +663,7 @@
 
 ## PHP 
 
+- [aaronpk/iMessage-Export](https://github.com/aaronpk/iMessage-Export) - Archive your iMessage history to HTML, CSV or SQL
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [farmOS/farmOS](https://github.com/farmOS/farmOS) - farmOS: A web-based farm record keeping application.
@@ -953,6 +954,7 @@
 
 ## Rust 
 
+- [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
