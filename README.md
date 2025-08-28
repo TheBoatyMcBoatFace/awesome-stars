@@ -325,6 +325,7 @@
 
 ## HTML 
 
+- [conoro/tiktok-rss-flat](https://github.com/conoro/tiktok-rss-flat) - Generate RSS feeds for TikTok accounts
 - [MarkHjorth/nedry](https://github.com/MarkHjorth/nedry) - Animated Access Denied page with sound, featuring Dennis Nedry from Jurassic Park - Ah Ah Ah, you didn't say the magic word.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
@@ -716,6 +717,7 @@
 
 ## Python 
 
+- [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [Eykthirnyr/UniFi-Voucher-Manager](https://github.com/Eykthirnyr/UniFi-Voucher-Manager) - Highly customizable, no-code, guest portal / voucher manager for Ubiquiti UniFi Network API.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
