@@ -72,6 +72,7 @@
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [english](#english)
+- [express](#express)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -233,6 +234,7 @@
 
 ## ai 
 
+- [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
@@ -301,6 +303,7 @@
 
 ## api 
 
+- [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [Knuckles-Team/listmonk-api](https://github.com/Knuckles-Team/listmonk-api) - Listmonk Python API Wrapper
 - [BenjaminOddou/alfred-emoji-wine](https://github.com/BenjaminOddou/alfred-emoji-wine) - 🍷 Find the most refined emojis
 - [djdembeck/Audnexus.bundle](https://github.com/djdembeck/Audnexus.bundle) - An Audnexus client proof of concept for Plex, providing rich author and audiobook data. Developed in Python, offering enhanced user experiences via Plex's legacy plugin agent system.
@@ -448,6 +451,9 @@
 
 ## aws 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [carboniferio/carbonifer](https://github.com/carboniferio/carbonifer) - Control carbon emission of your cloud infrastructure - Carbon-aware cloud infra
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
@@ -457,6 +463,9 @@
 
 ## azure 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [carboniferio/carbonifer](https://github.com/carboniferio/carbonifer) - Control carbon emission of your cloud infrastructure - Carbon-aware cloud infra
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
@@ -703,16 +712,19 @@
 
 ## data 
 
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 
 ## data-analysis 
 
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 
 ## data-engineering 
 
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -835,7 +847,7 @@
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
@@ -856,6 +868,7 @@
 
 ## docker 
 
+- [bitwister/twine](https://github.com/bitwister/twine) - Automated management of Docker container networking via labels.
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
@@ -935,6 +948,7 @@
 
 ## electron 
 
+- [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -965,6 +979,10 @@
 ## english 
 
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
+
+## express 
+
+- [glenndehaan/unifi-voucher-site](https://github.com/glenndehaan/unifi-voucher-site) - UniFi Voucher Site is a web-based platform for generating and managing UniFi network guest vouchers
 
 ## finance 
 
@@ -1062,7 +1080,6 @@
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 ## github 
@@ -1096,6 +1113,7 @@
 
 ## github-api 
 
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pascalgn/automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests that are ready
@@ -1107,6 +1125,7 @@
 
 ## go 
 
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [d-Rickyy-b/certstream-server-go](https://github.com/d-Rickyy-b/certstream-server-go) - This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket
 - [wabarc/playback](https://github.com/wabarc/playback) - Playback webpages from Wayback Machine
@@ -1181,6 +1200,7 @@
 
 ## google 
 
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
@@ -1215,6 +1235,7 @@
 
 ## hacktoberfest 
 
+- [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) - 📜 Yet another collection of wordlists
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -1321,6 +1342,7 @@
 
 ## home-assistant 
 
+- [glenndehaan/unifi-voucher-site](https://github.com/glenndehaan/unifi-voucher-site) - UniFi Voucher Site is a web-based platform for generating and managing UniFi network guest vouchers
 - [tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky) - Make your standing desk smarter
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
@@ -1495,6 +1517,7 @@
 
 ## kubernetes 
 
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost on Kubernetes by SREDevOps.org - Deploy Ghost v5 on Kubernetes (k8s, k3s, etc) with our hardened distroless non root custom image.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -1551,6 +1574,7 @@
 
 ## llm 
 
+- [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -1706,7 +1730,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [grafana/synthetic-monitoring-agent](https://github.com/grafana/synthetic-monitoring-agent) - Synthetic Monitoring agent
@@ -1817,6 +1841,7 @@
 
 ## nodejs 
 
+- [glenndehaan/unifi-voucher-site](https://github.com/glenndehaan/unifi-voucher-site) - UniFi Voucher Site is a web-based platform for generating and managing UniFi network guest vouchers
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1935,6 +1960,10 @@
 
 ## others 
 
+- [conoro/tiktok-rss-flat](https://github.com/conoro/tiktok-rss-flat) - Generate RSS feeds for TikTok accounts
+- [aaronpk/iMessage-Export](https://github.com/aaronpk/iMessage-Export) - Archive your iMessage history to HTML, CSV or SQL
+- [Shaztech/Pilldispenser](https://github.com/Shaztech/Pilldispenser) - Automated pill dispenser
+- [Eykthirnyr/UniFi-Voucher-Manager](https://github.com/Eykthirnyr/UniFi-Voucher-Manager) - Highly customizable, no-code, guest portal / voucher manager for Ubiquiti UniFi Network API.
 - [chyroc/icloudgo](https://github.com/chyroc/icloudgo) - Access Apple iCloud via go, go port of pyicloud
 - [besya/nova-copilot](https://github.com/besya/nova-copilot) - Github Copilot for Nova
 - [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
@@ -2462,6 +2491,8 @@
 
 ## python 
 
+- [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -2692,6 +2723,7 @@
 
 ## reverse-engineering 
 
+- [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone. Follow and ★ to show your support!
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -2755,6 +2787,7 @@
 
 ## security 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [northpolesec/santa](https://github.com/northpolesec/santa) - A binary and file access authorization system for macOS.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace
@@ -2789,6 +2822,7 @@
 
 ## security-tools 
 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
@@ -2858,6 +2892,7 @@
 
 ## serverless 
 
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -2894,6 +2929,7 @@
 
 ## sql 
 
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -3077,6 +3113,7 @@
 
 ## vpn 
 
+- [bitwister/twine](https://github.com/bitwister/twine) - Automated management of Docker container networking via labels.
 - [bastiandoetsch/mullvad-best-server](https://github.com/bastiandoetsch/mullvad-best-server) - Determines the Mullvad server with the lowest latency
 
 ## vue 
