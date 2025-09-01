@@ -717,6 +717,7 @@
 
 ## Python 
 
+- [N4rr34n6/TikTok-User-Info-Scraper](https://github.com/N4rr34n6/TikTok-User-Info-Scraper) - TikTok User Info Scraper allows you to fetch detailed information about TikTok users by their username or user ID, without requiring logins or API keys. It extracts various user data such as follower 
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [Eykthirnyr/UniFi-Voucher-Manager](https://github.com/Eykthirnyr/UniFi-Voucher-Manager) - Highly customizable, no-code, guest portal / voucher manager for Ubiquiti UniFi Network API.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
