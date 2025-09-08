@@ -957,6 +957,7 @@
 
 ## Rust 
 
+- [vinodnimbalkar/gcm](https://github.com/vinodnimbalkar/gcm) - `gcm` is a command-line tool leveraging local LLMs via Ollama OR Google's Gemini API to generate Git commit messages with relevant emojis based on the Git diff.
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
