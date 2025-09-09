@@ -2199,7 +2199,7 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [EqualifyEverything/handbook](https://github.com/EqualifyEverything/handbook) - Policies, Procedures, and Org Info
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask
 - [natcoso9955/unRAID-docker](https://github.com/natcoso9955/unRAID-docker) - 
 - [nemurici/python3-wappalyzer](https://github.com/nemurici/python3-wappalyzer) - python3-wappalyzer
