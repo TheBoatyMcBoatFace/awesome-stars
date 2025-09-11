@@ -203,7 +203,7 @@
 ## Dockerfile 
 
 - [CivicActions/pyction](https://github.com/CivicActions/pyction) - A few python images to make life easier when building stuff
-- [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost on Kubernetes by SREDevOps.org - Deploy Ghost v5 on Kubernetes (k8s, k3s, etc) with our hardened distroless non root custom image.
+- [sredevopsorg/ghost-on-kubernetes](https://github.com/sredevopsorg/ghost-on-kubernetes) - Ghost on Kubernetes by SREDevOps.org - Deploy Ghost v6 on Kubernetes (k8s, k3s, etc) with our hardened distroless non root custom image.
 - [paulokinho/obico-octoprint](https://github.com/paulokinho/obico-octoprint) - Obico running inside Octoprint
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [RynoM/self-hosted-deployment](https://github.com/RynoM/self-hosted-deployment) - A deployment pipeline for docker compose stacks on a single host, running on Gitea Actions.
@@ -717,6 +717,7 @@
 
 ## Python 
 
+- [stanfordio/truthbrush](https://github.com/stanfordio/truthbrush) - API client for Truth Social
 - [N4rr34n6/TikTok-User-Info-Scraper](https://github.com/N4rr34n6/TikTok-User-Info-Scraper) - TikTok User Info Scraper allows you to fetch detailed information about TikTok users by their username or user ID, without requiring logins or API keys. It extracts various user data such as follower 
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [Eykthirnyr/UniFi-Voucher-Manager](https://github.com/Eykthirnyr/UniFi-Voucher-Manager) - Highly customizable, no-code, guest portal / voucher manager for Ubiquiti UniFi Network API.
@@ -957,6 +958,7 @@
 
 ## Rust 
 
+- [jeertmans/languagetool-rust](https://github.com/jeertmans/languagetool-rust) - LanguageTool API in Rust
 - [vinodnimbalkar/gcm](https://github.com/vinodnimbalkar/gcm) - `gcm` is a command-line tool leveraging local LLMs via Ollama OR Google's Gemini API to generate Git commit messages with relevant emojis based on the Git diff.
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
@@ -968,7 +970,7 @@
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit) - A utility for managing cargo dependencies from the command line.
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
