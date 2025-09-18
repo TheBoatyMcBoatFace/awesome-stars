@@ -522,7 +522,7 @@
 - [spackows/MURAL-API-Samples](https://github.com/spackows/MURAL-API-Samples) - Sample code snippets demonstrating using the MURAL API
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [heiko-hotz/text-summarisation-project](https://github.com/heiko-hotz/text-summarisation-project) - A tutorial on how to set up a text summarisation project
 - [Data4Democracy/zip-code-to-county](https://github.com/Data4Democracy/zip-code-to-county) - The code that generates the zipcode to look up csv's based on government data.  Dataset can be found here https://data.world/niccolley/us-zipcode-to-county-state
@@ -597,7 +597,7 @@
 - [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
-- [GSA/govt-urls](https://github.com/GSA/govt-urls) - Most government websites end in .gov or .mil, but many do not. This repo contains USA.gov's list of public government domains and URLs that don't end in .gov or .mil.
+- [GSA/govt-urls](https://github.com/GSA/govt-urls) - Most government websites end in .gov or .mil, but many do not. This repo contains a list of public government domains and URLs that don't end in .gov or .mil.
 - [thegreenwebfoundation/carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Where we manage the syntax and specification for the carbon.txt project
 - [grafana/extreme-dashboard-makeover-breakouts](https://github.com/grafana/extreme-dashboard-makeover-breakouts) - 
 - [aisstream/aisstream](https://github.com/aisstream/aisstream) - 
@@ -1117,7 +1117,7 @@
 - [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others.
 - [nvti/portainer-stack-deploy](https://github.com/nvti/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
