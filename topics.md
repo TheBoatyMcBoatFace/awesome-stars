@@ -235,6 +235,7 @@
 
 ## ai 
 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [vinodnimbalkar/gcm](https://github.com/vinodnimbalkar/gcm) - `gcm` is a command-line tool leveraging local LLMs via Ollama OR Google's Gemini API to generate Git commit messages with relevant emojis based on the Git diff.
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
@@ -577,6 +578,7 @@
 
 ## chrome-extension 
 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [capJavert/clippy](https://github.com/capJavert/clippy) - Clippy MS Word Office asistant is now back to assist inside your browser!
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -1794,6 +1796,7 @@
 
 ## nextjs 
 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
@@ -2202,7 +2205,7 @@
 - [TheBoatyMcBoatFace/awesome-chatgpt-api](https://github.com/TheBoatyMcBoatFace/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [TheBoatyMcBoatFace/tabler](https://github.com/TheBoatyMcBoatFace/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [CivicActions/cypress-tests](https://github.com/CivicActions/cypress-tests) - A repository to store Cypress test recipes created by CivicActions engineers
-- [axe-selenium-python/axe-selenium-python](https://github.com/axe-selenium-python/axe-selenium-python) - aXe Selenium Integration python package
+- [django-commons/axe-selenium-python](https://github.com/django-commons/axe-selenium-python) - Automated web accessibility testing with Axe and Selenium
 - [supabase/cloudflare-access-grafana](https://github.com/supabase/cloudflare-access-grafana) - Small proxy for automatically login users from Cloudflare Access into Grafana
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
@@ -2500,6 +2503,7 @@
 
 ## python 
 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [N4rr34n6/TikTok-User-Info-Scraper](https://github.com/N4rr34n6/TikTok-User-Info-Scraper) - TikTok User Info Scraper allows you to fetch detailed information about TikTok users by their username or user ID, without requiring logins or API keys. It extracts various user data such as follower 
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
@@ -3086,6 +3090,7 @@
 
 ## typescript 
 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
