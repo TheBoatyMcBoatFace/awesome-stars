@@ -1971,6 +1971,7 @@
 
 ## others 
 
+- [spiicytuna/flame](https://github.com/spiicytuna/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [stanfordio/truthbrush](https://github.com/stanfordio/truthbrush) - API client for Truth Social
 - [conoro/tiktok-rss-flat](https://github.com/conoro/tiktok-rss-flat) - Generate RSS feeds for TikTok accounts
 - [aaronpk/iMessage-Export](https://github.com/aaronpk/iMessage-Export) - Archive your iMessage history to HTML, CSV or SQL
@@ -2307,7 +2308,6 @@
 - [axiomhq/awesome-axiom](https://github.com/axiomhq/awesome-axiom) - A curated list of awesome Axiom Platform, libraries, open source repos, guides, blogs, Documentation and other resources.
 - [bareboat-necessities/rust-modules](https://github.com/bareboat-necessities/rust-modules) - Various modules in Rust
 - [solidnerd/docker-bookstack](https://github.com/solidnerd/docker-bookstack) - BookStack in a container
-- [TheBoatyMcBoatFace/flame](https://github.com/TheBoatyMcBoatFace/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [e7h4n/alfred-workflow-moment](https://github.com/e7h4n/alfred-workflow-moment) - 
 - [deanishe/alfred-gcal](https://github.com/deanishe/alfred-gcal) - View Google Calendar events in Alfred
 - [willfarrell/alfred-cdn-workflow](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
